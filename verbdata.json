@@ -1,0 +1,7994 @@
+[
+  {
+    "stem": "abash",
+    "past": "abashed",
+    "past participle": "abashed",
+    "3 SG": "abashes",
+    "ing": "abashing",
+    "cefr": ""
+  },
+  {
+    "stem": "abate",
+    "past": "abated",
+    "past participle": "abated",
+    "3 SG": "abates",
+    "ing": "abating",
+    "cefr": ""
+  },
+  {
+    "stem": "abide",
+    "past": "abode",
+    "past participle": "abode",
+    "3 SG": "abides",
+    "ing": "abiding",
+    "cefr": ""
+  },
+  {
+    "stem": "absorb",
+    "past": "absorbed",
+    "past participle": "absorbed",
+    "3 SG": "absorbs",
+    "ing": "absorbing",
+    "cefr": "B1"
+  },
+  {
+    "stem": "accept",
+    "past": "accepted",
+    "past participle": "accepted",
+    "3 SG": "accepts",
+    "ing": "accepting",
+    "cefr": "A2"
+  },
+  {
+    "stem": "accompany",
+    "past": "accompanied",
+    "past participle": "accompanied",
+    "3 SG": "accompanies",
+    "ing": "accompanying",
+    "cefr": "B1"
+  },
+  {
+    "stem": "ache",
+    "past": "ached",
+    "past participle": "ached",
+    "3 SG": "aches",
+    "ing": "aching",
+    "cefr": "B2"
+  },
+  {
+    "stem": "achieve",
+    "past": "achieved",
+    "past participle": "achieved",
+    "3 SG": "achieves",
+    "ing": "achieving",
+    "cefr": "A2"
+  },
+  {
+    "stem": "acquire",
+    "past": "acquired",
+    "past participle": "acquired",
+    "3 SG": "acquires",
+    "ing": "acquiring",
+    "cefr": "B1"
+  },
+  {
+    "stem": "act",
+    "past": "acted",
+    "past participle": "acted",
+    "3 SG": "acts",
+    "ing": "acting",
+    "cefr": "B1"
+  },
+  {
+    "stem": "add",
+    "past": "added",
+    "past participle": "added",
+    "3 SG": "adds",
+    "ing": "adding",
+    "cefr": "A1"
+  },
+  {
+    "stem": "address",
+    "past": "addressed",
+    "past participle": "addressed",
+    "3 SG": "addresses",
+    "ing": "addressing",
+    "cefr": "B1"
+  },
+  {
+    "stem": "adjust",
+    "past": "adjusted",
+    "past participle": "adjusted",
+    "3 SG": "adjusts",
+    "ing": "adjusting",
+    "cefr": "A2"
+  },
+  {
+    "stem": "admire",
+    "past": "admired",
+    "past participle": "admired",
+    "3 SG": "admires",
+    "ing": "admiring",
+    "cefr": "A2"
+  },
+  {
+    "stem": "admit",
+    "past": "admitted",
+    "past participle": "admitted",
+    "3 SG": "admits",
+    "ing": "admitting",
+    "cefr": "A2"
+  },
+  {
+    "stem": "advise",
+    "past": "advised",
+    "past participle": "advised",
+    "3 SG": "advises",
+    "ing": "advising",
+    "cefr": "A2"
+  },
+  {
+    "stem": "afford",
+    "past": "afforded",
+    "past participle": "afforded",
+    "3 SG": "affords",
+    "ing": "affording",
+    "cefr": "B1"
+  },
+  {
+    "stem": "agree",
+    "past": "agreed",
+    "past participle": "agreed",
+    "3 SG": "agrees",
+    "ing": "agreeing",
+    "cefr": "A1"
+  },
+  {
+    "stem": "alight",
+    "past": "alit",
+    "past participle": "alit",
+    "3 SG": "alights",
+    "ing": "alighting",
+    "cefr": ""
+  },
+  {
+    "stem": "allow",
+    "past": "allowed",
+    "past participle": "allowed",
+    "3 SG": "allows",
+    "ing": "allowing",
+    "cefr": "A2"
+  },
+  {
+    "stem": "animate",
+    "past": "animated",
+    "past participle": "animated",
+    "3 SG": "animates",
+    "ing": "animating",
+    "cefr": "B2"
+  },
+  {
+    "stem": "announce",
+    "past": "announced",
+    "past participle": "announced",
+    "3 SG": "announces",
+    "ing": "announcing",
+    "cefr": "B1"
+  },
+  {
+    "stem": "answer",
+    "past": "answered",
+    "past participle": "answered",
+    "3 SG": "answers",
+    "ing": "answering",
+    "cefr": "A1"
+  },
+  {
+    "stem": "apologize",
+    "past": "apologized",
+    "past participle": "apologized",
+    "3 SG": "apologizes",
+    "ing": "apologizing",
+    "cefr": ""
+  },
+  {
+    "stem": "appear",
+    "past": "appeared",
+    "past participle": "appeared",
+    "3 SG": "appears",
+    "ing": "appearing",
+    "cefr": "A2"
+  },
+  {
+    "stem": "applaud",
+    "past": "applauded",
+    "past participle": "applauded",
+    "3 SG": "applauds",
+    "ing": "applauding",
+    "cefr": "B1"
+  },
+  {
+    "stem": "apply",
+    "past": "applied",
+    "past participle": "applied",
+    "3 SG": "applies",
+    "ing": "applying",
+    "cefr": "A2"
+  },
+  {
+    "stem": "approach",
+    "past": "approached",
+    "past participle": "approached",
+    "3 SG": "approaches",
+    "ing": "approaching",
+    "cefr": "B2"
+  },
+  {
+    "stem": "approve",
+    "past": "approved",
+    "past participle": "approved",
+    "3 SG": "approves",
+    "ing": "approving",
+    "cefr": "B1"
+  },
+  {
+    "stem": "argue",
+    "past": "argued",
+    "past participle": "argued",
+    "3 SG": "argues",
+    "ing": "arguing",
+    "cefr": "A2"
+  },
+  {
+    "stem": "arise",
+    "past": "arose",
+    "past participle": "arisen",
+    "3 SG": "arises",
+    "ing": "arising",
+    "cefr": "B1"
+  },
+  {
+    "stem": "arrange",
+    "past": "arranged",
+    "past participle": "arranged",
+    "3 SG": "arranges",
+    "ing": "arranging",
+    "cefr": "B1"
+  },
+  {
+    "stem": "arrest",
+    "past": "arrested",
+    "past participle": "arrested",
+    "3 SG": "arrests",
+    "ing": "arresting",
+    "cefr": "B1"
+  },
+  {
+    "stem": "ask",
+    "past": "asked",
+    "past participle": "asked",
+    "3 SG": "asks",
+    "ing": "asking",
+    "cefr": "A1"
+  },
+  {
+    "stem": "assert",
+    "past": "asserted",
+    "past participle": "asserted",
+    "3 SG": "asserts",
+    "ing": "asserting",
+    "cefr": "B2"
+  },
+  {
+    "stem": "assort",
+    "past": "assorted",
+    "past participle": "assorted",
+    "3 SG": "assorts",
+    "ing": "assorting",
+    "cefr": ""
+  },
+  {
+    "stem": "astonish",
+    "past": "astonished",
+    "past participle": "astonished",
+    "3 SG": "astonishes",
+    "ing": "astonishing",
+    "cefr": "B2"
+  },
+  {
+    "stem": "attack",
+    "past": "attacked",
+    "past participle": "attacked",
+    "3 SG": "attacks",
+    "ing": "attacking",
+    "cefr": "A2"
+  },
+  {
+    "stem": "attend",
+    "past": "attended",
+    "past participle": "attended",
+    "3 SG": "attends",
+    "ing": "attending",
+    "cefr": "B1"
+  },
+  {
+    "stem": "attract",
+    "past": "attracted",
+    "past participle": "attracted",
+    "3 SG": "attracts",
+    "ing": "attracting",
+    "cefr": "B1"
+  },
+  {
+    "stem": "audit",
+    "past": "audited",
+    "past participle": "audited",
+    "3 SG": "audits",
+    "ing": "auditing",
+    "cefr": "B2"
+  },
+  {
+    "stem": "avoid",
+    "past": "avoided",
+    "past participle": "avoided",
+    "3 SG": "avoids",
+    "ing": "avoiding",
+    "cefr": "A2"
+  },
+  {
+    "stem": "awake",
+    "past": "awoke",
+    "past participle": "awoken",
+    "3 SG": "awakes",
+    "ing": "awaking",
+    "cefr": "A1"
+  },
+  {
+    "stem": "bang",
+    "past": "banged",
+    "past participle": "banged",
+    "3 SG": "bangs",
+    "ing": "banging",
+    "cefr": "B1"
+  },
+  {
+    "stem": "banish",
+    "past": "banished",
+    "past participle": "banished",
+    "3 SG": "banishes",
+    "ing": "banishing",
+    "cefr": ""
+  },
+  {
+    "stem": "bash",
+    "past": "bashed",
+    "past participle": "bashed",
+    "3 SG": "bashes",
+    "ing": "bashing",
+    "cefr": ""
+  },
+  {
+    "stem": "bat",
+    "past": "batted",
+    "past participle": "batted",
+    "3 SG": "bats",
+    "ing": "batting",
+    "cefr": "B1"
+  },
+  {
+    "stem": "be (am",
+    "past": "are)",
+    "past participle": "was / were",
+    "3 SG": "been",
+    "ing": "is",
+    "cefr": "being"
+  },
+  {
+    "stem": "bear",
+    "past": "bore",
+    "past participle": "born",
+    "3 SG": "bears",
+    "ing": "bearing",
+    "cefr": "A2"
+  },
+  {
+    "stem": "bear",
+    "past": "bore",
+    "past participle": "borne",
+    "3 SG": "bears",
+    "ing": "bearing",
+    "cefr": "A2"
+  },
+  {
+    "stem": "beat",
+    "past": "beat",
+    "past participle": "beaten",
+    "3 SG": "beats",
+    "ing": "beating",
+    "cefr": "B1"
+  },
+  {
+    "stem": "beautify",
+    "past": "beautified",
+    "past participle": "beautified",
+    "3 SG": "beautifies",
+    "ing": "beautifying",
+    "cefr": "B2"
+  },
+  {
+    "stem": "become",
+    "past": "became",
+    "past participle": "become",
+    "3 SG": "becomes",
+    "ing": "becoming",
+    "cefr": "A1"
+  },
+  {
+    "stem": "befall",
+    "past": "befell",
+    "past participle": "befallen",
+    "3 SG": "befalls",
+    "ing": "befalling",
+    "cefr": ""
+  },
+  {
+    "stem": "beg",
+    "past": "begged",
+    "past participle": "begged",
+    "3 SG": "begs",
+    "ing": "begging",
+    "cefr": "A2"
+  },
+  {
+    "stem": "begin",
+    "past": "began",
+    "past participle": "begun",
+    "3 SG": "begins",
+    "ing": "beginning",
+    "cefr": "A1"
+  },
+  {
+    "stem": "behave",
+    "past": "behaved",
+    "past participle": "behaved",
+    "3 SG": "behaves",
+    "ing": "behaving",
+    "cefr": "B1"
+  },
+  {
+    "stem": "behold",
+    "past": "beheld",
+    "past participle": "beheld",
+    "3 SG": "beholds",
+    "ing": "beholding",
+    "cefr": ""
+  },
+  {
+    "stem": "believe",
+    "past": "believed",
+    "past participle": "believed",
+    "3 SG": "believes",
+    "ing": "believing",
+    "cefr": "A1"
+  },
+  {
+    "stem": "belong",
+    "past": "belonged",
+    "past participle": "belonged",
+    "3 SG": "belongs",
+    "ing": "belonging",
+    "cefr": "A2"
+  },
+  {
+    "stem": "bend",
+    "past": "bent",
+    "past participle": "bent",
+    "3 SG": "bends",
+    "ing": "bending",
+    "cefr": "A2"
+  },
+  {
+    "stem": "bereave",
+    "past": "bereft",
+    "past participle": "bereft",
+    "3 SG": "bereaves",
+    "ing": "bereaving",
+    "cefr": ""
+  },
+  {
+    "stem": "beseech",
+    "past": "besought",
+    "past participle": "besought",
+    "3 SG": "beseeches",
+    "ing": "beseeching",
+    "cefr": ""
+  },
+  {
+    "stem": "bet",
+    "past": "bet",
+    "past participle": "bet",
+    "3 SG": "bets",
+    "ing": "betting",
+    "cefr": "B1"
+  },
+  {
+    "stem": "betray",
+    "past": "betrayed",
+    "past participle": "betrayed",
+    "3 SG": "betrays",
+    "ing": "betraying",
+    "cefr": "B2"
+  },
+  {
+    "stem": "bid",
+    "past": "bade",
+    "past participle": "bidden",
+    "3 SG": "bids",
+    "ing": "bidding",
+    "cefr": "B2"
+  },
+  {
+    "stem": "bid",
+    "past": "bid",
+    "past participle": "bid",
+    "3 SG": "bids",
+    "ing": "bidding",
+    "cefr": "B2"
+  },
+  {
+    "stem": "bind",
+    "past": "bound",
+    "past participle": "bound",
+    "3 SG": "binds",
+    "ing": "binding",
+    "cefr": "B2"
+  },
+  {
+    "stem": "bite",
+    "past": "bit",
+    "past participle": "bitten",
+    "3 SG": "bites",
+    "ing": "biting",
+    "cefr": "B1"
+  },
+  {
+    "stem": "bleed",
+    "past": "bled",
+    "past participle": "bled",
+    "3 SG": "bleeds",
+    "ing": "bleeding",
+    "cefr": "B1"
+  },
+  {
+    "stem": "bless",
+    "past": "blessed",
+    "past participle": "blessed",
+    "3 SG": "blesses",
+    "ing": "blessing",
+    "cefr": "B1"
+  },
+  {
+    "stem": "blossom",
+    "past": "blossomed",
+    "past participle": "blossomed",
+    "3 SG": "blossoms",
+    "ing": "blossoming",
+    "cefr": "B2"
+  },
+  {
+    "stem": "blow",
+    "past": "blew",
+    "past participle": "blown",
+    "3 SG": "blows",
+    "ing": "blowing",
+    "cefr": "A1"
+  },
+  {
+    "stem": "blur",
+    "past": "blurred",
+    "past participle": "blurred",
+    "3 SG": "blurs",
+    "ing": "blurring",
+    "cefr": "B2"
+  },
+  {
+    "stem": "blush",
+    "past": "blushed",
+    "past participle": "blushed",
+    "3 SG": "blushes",
+    "ing": "blushing",
+    "cefr": "B2"
+  },
+  {
+    "stem": "board",
+    "past": "boarded",
+    "past participle": "boarded",
+    "3 SG": "boards",
+    "ing": "boarding",
+    "cefr": "B1"
+  },
+  {
+    "stem": "boast",
+    "past": "boasted",
+    "past participle": "boasted",
+    "3 SG": "boasts",
+    "ing": "boasting",
+    "cefr": "B1"
+  },
+  {
+    "stem": "boil",
+    "past": "boiled",
+    "past participle": "boiled",
+    "3 SG": "boils",
+    "ing": "boiling",
+    "cefr": "A2"
+  },
+  {
+    "stem": "bow",
+    "past": "bowed",
+    "past participle": "bowed",
+    "3 SG": "bows",
+    "ing": "bowing",
+    "cefr": "B2"
+  },
+  {
+    "stem": "box",
+    "past": "boxed",
+    "past participle": "boxed",
+    "3 SG": "boxes",
+    "ing": "boxing",
+    "cefr": "A1"
+  },
+  {
+    "stem": "bray",
+    "past": "brayed",
+    "past participle": "brayed",
+    "3 SG": "brays",
+    "ing": "braying",
+    "cefr": ""
+  },
+  {
+    "stem": "break",
+    "past": "broke",
+    "past participle": "broken",
+    "3 SG": "breaks",
+    "ing": "breaking",
+    "cefr": "A1"
+  },
+  {
+    "stem": "breathe",
+    "past": "breathed",
+    "past participle": "breathed",
+    "3 SG": "breathes",
+    "ing": "breathing",
+    "cefr": "A1"
+  },
+  {
+    "stem": "breed",
+    "past": "bred",
+    "past participle": "bred",
+    "3 SG": "breeds",
+    "ing": "breeding",
+    "cefr": "B1"
+  },
+  {
+    "stem": "bring",
+    "past": "brought",
+    "past participle": "brought",
+    "3 SG": "brings",
+    "ing": "bringing",
+    "cefr": "A1"
+  },
+  {
+    "stem": "broadcast",
+    "past": "broadcast",
+    "past participle": "broadcast",
+    "3 SG": "broadcasts",
+    "ing": "broadcasting",
+    "cefr": "B2"
+  },
+  {
+    "stem": "brush",
+    "past": "brushed",
+    "past participle": "brushed",
+    "3 SG": "brushes",
+    "ing": "brushing",
+    "cefr": "A1"
+  },
+  {
+    "stem": "build",
+    "past": "built",
+    "past participle": "built",
+    "3 SG": "builds",
+    "ing": "building",
+    "cefr": "A1"
+  },
+  {
+    "stem": "burn",
+    "past": "burnt",
+    "past participle": "burnt",
+    "3 SG": "burns",
+    "ing": "burning",
+    "cefr": "B1"
+  },
+  {
+    "stem": "burst",
+    "past": "burst",
+    "past participle": "burst",
+    "3 SG": "bursts",
+    "ing": "bursting",
+    "cefr": "B1"
+  },
+  {
+    "stem": "bury",
+    "past": "buried",
+    "past participle": "buried",
+    "3 SG": "buries",
+    "ing": "burying",
+    "cefr": "A2"
+  },
+  {
+    "stem": "bust",
+    "past": "bust",
+    "past participle": "bust",
+    "3 SG": "busts",
+    "ing": "busting",
+    "cefr": "B1"
+  },
+  {
+    "stem": "buy",
+    "past": "bought",
+    "past participle": "bought",
+    "3 SG": "buys",
+    "ing": "buying",
+    "cefr": "A1"
+  },
+  {
+    "stem": "buzz",
+    "past": "buzzed",
+    "past participle": "buzzed",
+    "3 SG": "buzzes",
+    "ing": "buzzing",
+    "cefr": "B2"
+  },
+  {
+    "stem": "calculate",
+    "past": "calculated",
+    "past participle": "calculated",
+    "3 SG": "calculates",
+    "ing": "calculating",
+    "cefr": "B1"
+  },
+  {
+    "stem": "call",
+    "past": "called",
+    "past participle": "called",
+    "3 SG": "calls",
+    "ing": "calling",
+    "cefr": "A2"
+  },
+  {
+    "stem": "canvass",
+    "past": "canvassed",
+    "past participle": "canvassed",
+    "3 SG": "canvasses",
+    "ing": "canvassing",
+    "cefr": ""
+  },
+  {
+    "stem": "capture",
+    "past": "captured",
+    "past participle": "captured",
+    "3 SG": "captures",
+    "ing": "capturing",
+    "cefr": "B1"
+  },
+  {
+    "stem": "caress",
+    "past": "caressed",
+    "past participle": "caressed",
+    "3 SG": "caresses",
+    "ing": "caressing",
+    "cefr": ""
+  },
+  {
+    "stem": "carry",
+    "past": "carried",
+    "past participle": "carried",
+    "3 SG": "carries",
+    "ing": "carrying",
+    "cefr": "A1"
+  },
+  {
+    "stem": "carve",
+    "past": "carved",
+    "past participle": "carved",
+    "3 SG": "carves",
+    "ing": "carving",
+    "cefr": "B2"
+  },
+  {
+    "stem": "cash",
+    "past": "cashed",
+    "past participle": "cashed",
+    "3 SG": "cashes",
+    "ing": "cashing",
+    "cefr": "A2"
+  },
+  {
+    "stem": "cast",
+    "past": "cast",
+    "past participle": "cast",
+    "3 SG": "casts",
+    "ing": "casting",
+    "cefr": "B2"
+  },
+  {
+    "stem": "catch",
+    "past": "caught",
+    "past participle": "caught",
+    "3 SG": "catches",
+    "ing": "catching",
+    "cefr": "A1"
+  },
+  {
+    "stem": "cause",
+    "past": "caused",
+    "past participle": "caused",
+    "3 SG": "causes",
+    "ing": "causing",
+    "cefr": "A2"
+  },
+  {
+    "stem": "cease",
+    "past": "ceased",
+    "past participle": "ceased",
+    "3 SG": "ceases",
+    "ing": "ceasing",
+    "cefr": "B2"
+  },
+  {
+    "stem": "celebrate",
+    "past": "celebrated",
+    "past participle": "celebrated",
+    "3 SG": "celebrates",
+    "ing": "celebrating",
+    "cefr": "A1"
+  },
+  {
+    "stem": "challenge",
+    "past": "challenged",
+    "past participle": "challenged",
+    "3 SG": "challenges",
+    "ing": "challenging",
+    "cefr": "B2"
+  },
+  {
+    "stem": "change",
+    "past": "changed",
+    "past participle": "changed",
+    "3 SG": "changes",
+    "ing": "changing",
+    "cefr": "A1"
+  },
+  {
+    "stem": "charge",
+    "past": "charged",
+    "past participle": "charged",
+    "3 SG": "charges",
+    "ing": "charging",
+    "cefr": "B1"
+  },
+  {
+    "stem": "chase",
+    "past": "chased",
+    "past participle": "chased",
+    "3 SG": "chases",
+    "ing": "chasing",
+    "cefr": "B2"
+  },
+  {
+    "stem": "chat",
+    "past": "chatted",
+    "past participle": "chatted",
+    "3 SG": "chats",
+    "ing": "chatting",
+    "cefr": "A2"
+  },
+  {
+    "stem": "check",
+    "past": "checked",
+    "past participle": "checked",
+    "3 SG": "checks",
+    "ing": "checking",
+    "cefr": "A2"
+  },
+  {
+    "stem": "cheer",
+    "past": "cheered",
+    "past participle": "cheered",
+    "3 SG": "cheers",
+    "ing": "cheering",
+    "cefr": "A2"
+  },
+  {
+    "stem": "chew",
+    "past": "chewed",
+    "past participle": "chewed",
+    "3 SG": "chews",
+    "ing": "chewing",
+    "cefr": "B2"
+  },
+  {
+    "stem": "chide",
+    "past": "chid",
+    "past participle": "chid/chidden",
+    "3 SG": "chides",
+    "ing": "chiding",
+    "cefr": ""
+  },
+  {
+    "stem": "chip",
+    "past": "chipped",
+    "past participle": "chipped",
+    "3 SG": "chips",
+    "ing": "chipping",
+    "cefr": "B2"
+  },
+  {
+    "stem": "choke",
+    "past": "choked",
+    "past participle": "choked",
+    "3 SG": "chokes",
+    "ing": "choking",
+    "cefr": "B1"
+  },
+  {
+    "stem": "choose",
+    "past": "chose",
+    "past participle": "chosen",
+    "3 SG": "chooses",
+    "ing": "choosing",
+    "cefr": "A1"
+  },
+  {
+    "stem": "classify",
+    "past": "classified",
+    "past participle": "classified",
+    "3 SG": "classifies",
+    "ing": "classifying",
+    "cefr": "B1"
+  },
+  {
+    "stem": "clean",
+    "past": "cleaned",
+    "past participle": "cleaned",
+    "3 SG": "cleans",
+    "ing": "cleaning",
+    "cefr": "A1"
+  },
+  {
+    "stem": "cleave",
+    "past": "clove/cleft",
+    "past participle": "cloven/cleft",
+    "3 SG": "cleaves",
+    "ing": "cleaving",
+    "cefr": ""
+  },
+  {
+    "stem": "click",
+    "past": "clicked",
+    "past participle": "clicked",
+    "3 SG": "clicks",
+    "ing": "clicking",
+    "cefr": "A2"
+  },
+  {
+    "stem": "climb",
+    "past": "climbed",
+    "past participle": "climbed",
+    "3 SG": "climbs",
+    "ing": "climbing",
+    "cefr": "A2"
+  },
+  {
+    "stem": "cling",
+    "past": "clung",
+    "past participle": "clung",
+    "3 SG": "clings",
+    "ing": "clinging",
+    "cefr": ""
+  },
+  {
+    "stem": "close",
+    "past": "closed",
+    "past participle": "closed",
+    "3 SG": "closes",
+    "ing": "closing",
+    "cefr": "A1"
+  },
+  {
+    "stem": "clothe",
+    "past": "clad",
+    "past participle": "clad",
+    "3 SG": "clothes",
+    "ing": "clothing",
+    "cefr": ""
+  },
+  {
+    "stem": "clutch",
+    "past": "clutched",
+    "past participle": "clutched",
+    "3 SG": "clutches",
+    "ing": "clutching",
+    "cefr": ""
+  },
+  {
+    "stem": "collapse",
+    "past": "collapsed",
+    "past participle": "collapsed",
+    "3 SG": "collapses",
+    "ing": "collapsing",
+    "cefr": "B2"
+  },
+  {
+    "stem": "collect",
+    "past": "collected",
+    "past participle": "collected",
+    "3 SG": "collects",
+    "ing": "collecting",
+    "cefr": "A1"
+  },
+  {
+    "stem": "colour",
+    "past": "coloured",
+    "past participle": "coloured",
+    "3 SG": "colours",
+    "ing": "colouring",
+    "cefr": ""
+  },
+  {
+    "stem": "come",
+    "past": "came",
+    "past participle": "come",
+    "3 SG": "comes",
+    "ing": "coming",
+    "cefr": "A1"
+  },
+  {
+    "stem": "comment",
+    "past": "commented",
+    "past participle": "commented",
+    "3 SG": "comments",
+    "ing": "commenting",
+    "cefr": "B2"
+  },
+  {
+    "stem": "compare",
+    "past": "compared",
+    "past participle": "compared",
+    "3 SG": "compares",
+    "ing": "comparing",
+    "cefr": "A2"
+  },
+  {
+    "stem": "compel",
+    "past": "compelled",
+    "past participle": "compelled",
+    "3 SG": "compels",
+    "ing": "compelling",
+    "cefr": ""
+  },
+  {
+    "stem": "compete",
+    "past": "competed",
+    "past participle": "competed",
+    "3 SG": "competes",
+    "ing": "competing",
+    "cefr": "B1"
+  },
+  {
+    "stem": "complain",
+    "past": "complained",
+    "past participle": "complained",
+    "3 SG": "complains",
+    "ing": "complaining",
+    "cefr": "A2"
+  },
+  {
+    "stem": "complete",
+    "past": "completed",
+    "past participle": "completed",
+    "3 SG": "completes",
+    "ing": "completing",
+    "cefr": "B1"
+  },
+  {
+    "stem": "conclude",
+    "past": "concluded",
+    "past participle": "concluded",
+    "3 SG": "concludes",
+    "ing": "concluding",
+    "cefr": "B1"
+  },
+  {
+    "stem": "conduct",
+    "past": "conducted",
+    "past participle": "conducted",
+    "3 SG": "conducts",
+    "ing": "conducting",
+    "cefr": "B2"
+  },
+  {
+    "stem": "confess",
+    "past": "confessed",
+    "past participle": "confessed",
+    "3 SG": "confesses",
+    "ing": "confessing",
+    "cefr": "B2"
+  },
+  {
+    "stem": "confine",
+    "past": "confined",
+    "past participle": "confined",
+    "3 SG": "confines",
+    "ing": "confining",
+    "cefr": "B2"
+  },
+  {
+    "stem": "confiscate",
+    "past": "confiscated",
+    "past participle": "confiscated",
+    "3 SG": "confiscates",
+    "ing": "confiscating",
+    "cefr": ""
+  },
+  {
+    "stem": "confuse",
+    "past": "confused",
+    "past participle": "confused",
+    "3 SG": "confuses",
+    "ing": "confusing",
+    "cefr": "A2"
+  },
+  {
+    "stem": "congratulate",
+    "past": "congratulated",
+    "past participle": "congratulated",
+    "3 SG": "congratulates",
+    "ing": "congratulating",
+    "cefr": "B1"
+  },
+  {
+    "stem": "connect",
+    "past": "connected",
+    "past participle": "connected",
+    "3 SG": "connects",
+    "ing": "connecting",
+    "cefr": "B1"
+  },
+  {
+    "stem": "connote",
+    "past": "connoted",
+    "past participle": "connoted",
+    "3 SG": "connotes",
+    "ing": "connoting",
+    "cefr": ""
+  },
+  {
+    "stem": "conquer",
+    "past": "conquered",
+    "past participle": "conquered",
+    "3 SG": "conquers",
+    "ing": "conquering",
+    "cefr": "B1"
+  },
+  {
+    "stem": "consecrate",
+    "past": "consecrated",
+    "past participle": "consecrated",
+    "3 SG": "consecrates",
+    "ing": "consecrating",
+    "cefr": ""
+  },
+  {
+    "stem": "consent",
+    "past": "consented",
+    "past participle": "consented",
+    "3 SG": "consents",
+    "ing": "consenting",
+    "cefr": "B2"
+  },
+  {
+    "stem": "conserve",
+    "past": "conserved",
+    "past participle": "conserved",
+    "3 SG": "conserves",
+    "ing": "conserving",
+    "cefr": ""
+  },
+  {
+    "stem": "consider",
+    "past": "considered",
+    "past participle": "considered",
+    "3 SG": "considers",
+    "ing": "considering",
+    "cefr": "A2"
+  },
+  {
+    "stem": "consign",
+    "past": "consigned",
+    "past participle": "consigned",
+    "3 SG": "consigns",
+    "ing": "consigning",
+    "cefr": ""
+  },
+  {
+    "stem": "consist",
+    "past": "consisted",
+    "past participle": "consisted",
+    "3 SG": "consists",
+    "ing": "consisting",
+    "cefr": "A2"
+  },
+  {
+    "stem": "console",
+    "past": "consoled",
+    "past participle": "consoled",
+    "3 SG": "consoles",
+    "ing": "consoling",
+    "cefr": "B2"
+  },
+  {
+    "stem": "consort",
+    "past": "consorted",
+    "past participle": "consorted",
+    "3 SG": "consorts",
+    "ing": "consorting",
+    "cefr": ""
+  },
+  {
+    "stem": "conspire",
+    "past": "conspired",
+    "past participle": "conspired",
+    "3 SG": "conspires",
+    "ing": "conspiring",
+    "cefr": ""
+  },
+  {
+    "stem": "constitute",
+    "past": "constituted",
+    "past participle": "constituted",
+    "3 SG": "constitutes",
+    "ing": "constituting",
+    "cefr": "B1"
+  },
+  {
+    "stem": "constrain",
+    "past": "constrained",
+    "past participle": "constrained",
+    "3 SG": "constrains",
+    "ing": "constraining",
+    "cefr": ""
+  },
+  {
+    "stem": "construct",
+    "past": "constructed",
+    "past participle": "constructed",
+    "3 SG": "constructs",
+    "ing": "constructing",
+    "cefr": "B1"
+  },
+  {
+    "stem": "construe",
+    "past": "construed",
+    "past participle": "construed",
+    "3 SG": "construes",
+    "ing": "construing",
+    "cefr": ""
+  },
+  {
+    "stem": "consult",
+    "past": "consulted",
+    "past participle": "consulted",
+    "3 SG": "consults",
+    "ing": "consulting",
+    "cefr": "B2"
+  },
+  {
+    "stem": "contain",
+    "past": "contained",
+    "past participle": "contained",
+    "3 SG": "contains",
+    "ing": "containing",
+    "cefr": "B1"
+  },
+  {
+    "stem": "contemn",
+    "past": "contemned",
+    "past participle": "contemned",
+    "3 SG": "contemns",
+    "ing": "contemning",
+    "cefr": ""
+  },
+  {
+    "stem": "contend",
+    "past": "contended",
+    "past participle": "contended",
+    "3 SG": "contends",
+    "ing": "contending",
+    "cefr": ""
+  },
+  {
+    "stem": "contest",
+    "past": "contested",
+    "past participle": "contested",
+    "3 SG": "contests",
+    "ing": "contesting",
+    "cefr": "A1"
+  },
+  {
+    "stem": "continue",
+    "past": "continued",
+    "past participle": "continued",
+    "3 SG": "continues",
+    "ing": "continuing",
+    "cefr": "A2"
+  },
+  {
+    "stem": "contract",
+    "past": "contracted",
+    "past participle": "contracted",
+    "3 SG": "contracts",
+    "ing": "contracting",
+    "cefr": "B2"
+  },
+  {
+    "stem": "contradict",
+    "past": "contradicted",
+    "past participle": "contradicted",
+    "3 SG": "contradicts",
+    "ing": "contradicting",
+    "cefr": "B2"
+  },
+  {
+    "stem": "contrast",
+    "past": "contrasted",
+    "past participle": "contrasted",
+    "3 SG": "contrasts",
+    "ing": "contrasting",
+    "cefr": "A2"
+  },
+  {
+    "stem": "contribute",
+    "past": "contributed",
+    "past participle": "contributed",
+    "3 SG": "contributes",
+    "ing": "contributing",
+    "cefr": "B1"
+  },
+  {
+    "stem": "contrive",
+    "past": "contrived",
+    "past participle": "contrived",
+    "3 SG": "contrives",
+    "ing": "contriving",
+    "cefr": ""
+  },
+  {
+    "stem": "control",
+    "past": "controlled",
+    "past participle": "controlled",
+    "3 SG": "controls",
+    "ing": "controlling",
+    "cefr": "B1"
+  },
+  {
+    "stem": "convene",
+    "past": "convened",
+    "past participle": "convened",
+    "3 SG": "convenes",
+    "ing": "convening",
+    "cefr": ""
+  },
+  {
+    "stem": "converge",
+    "past": "converged",
+    "past participle": "converged",
+    "3 SG": "converges",
+    "ing": "converging",
+    "cefr": ""
+  },
+  {
+    "stem": "converse",
+    "past": "conversed",
+    "past participle": "conversed",
+    "3 SG": "converses",
+    "ing": "conversing",
+    "cefr": "B2"
+  },
+  {
+    "stem": "convert",
+    "past": "converted",
+    "past participle": "converted",
+    "3 SG": "converts",
+    "ing": "converting",
+    "cefr": "B2"
+  },
+  {
+    "stem": "convey",
+    "past": "conveyed",
+    "past participle": "conveyed",
+    "3 SG": "conveys",
+    "ing": "conveying",
+    "cefr": "B1"
+  },
+  {
+    "stem": "convict",
+    "past": "convicted",
+    "past participle": "convicted",
+    "3 SG": "convicts",
+    "ing": "convicting",
+    "cefr": ""
+  },
+  {
+    "stem": "convince",
+    "past": "convinced",
+    "past participle": "convinced",
+    "3 SG": "convinces",
+    "ing": "convincing",
+    "cefr": "B1"
+  },
+  {
+    "stem": "coo",
+    "past": "cooed",
+    "past participle": "cooed",
+    "3 SG": "coos",
+    "ing": "cooing",
+    "cefr": ""
+  },
+  {
+    "stem": "cook",
+    "past": "cooked",
+    "past participle": "cooked",
+    "3 SG": "cooks",
+    "ing": "cooking",
+    "cefr": "A1"
+  },
+  {
+    "stem": "cool",
+    "past": "cooled",
+    "past participle": "cooled",
+    "3 SG": "cools",
+    "ing": "cooling",
+    "cefr": "B2"
+  },
+  {
+    "stem": "co-operate",
+    "past": "co-operated",
+    "past participle": "co-operated",
+    "3 SG": "co-operates",
+    "ing": "co-operating",
+    "cefr": ""
+  },
+  {
+    "stem": "cope",
+    "past": "coped",
+    "past participle": "cope",
+    "3 SG": "copes",
+    "ing": "coping",
+    "cefr": "B2"
+  },
+  {
+    "stem": "copy",
+    "past": "copied",
+    "past participle": "copied",
+    "3 SG": "copies",
+    "ing": "copying",
+    "cefr": "A2"
+  },
+  {
+    "stem": "correct",
+    "past": "corrected",
+    "past participle": "corrected",
+    "3 SG": "corrects",
+    "ing": "correcting",
+    "cefr": "B2"
+  },
+  {
+    "stem": "correspond",
+    "past": "corresponded",
+    "past participle": "corresponded",
+    "3 SG": "corresponds",
+    "ing": "corresponding",
+    "cefr": "B2"
+  },
+  {
+    "stem": "corrode",
+    "past": "corroded",
+    "past participle": "corroded",
+    "3 SG": "corrodes",
+    "ing": "corroding",
+    "cefr": ""
+  },
+  {
+    "stem": "corrupt",
+    "past": "corrupted",
+    "past participle": "corrupted",
+    "3 SG": "corrupts",
+    "ing": "corrupting",
+    "cefr": "B2"
+  },
+  {
+    "stem": "cost",
+    "past": "cost",
+    "past participle": "cost",
+    "3 SG": "costs",
+    "ing": "costing",
+    "cefr": "A2"
+  },
+  {
+    "stem": "cough",
+    "past": "coughed",
+    "past participle": "coughed",
+    "3 SG": "coughs",
+    "ing": "coughing",
+    "cefr": "B1"
+  },
+  {
+    "stem": "counsel",
+    "past": "counselled",
+    "past participle": "counselled",
+    "3 SG": "counsels",
+    "ing": "counselling",
+    "cefr": ""
+  },
+  {
+    "stem": "count",
+    "past": "counted",
+    "past participle": "counted",
+    "3 SG": "counts",
+    "ing": "counting",
+    "cefr": "A2"
+  },
+  {
+    "stem": "course",
+    "past": "coursed",
+    "past participle": "coursed",
+    "3 SG": "courses",
+    "ing": "coursing",
+    "cefr": "A1"
+  },
+  {
+    "stem": "cover",
+    "past": "covered",
+    "past participle": "covered",
+    "3 SG": "covers",
+    "ing": "covering",
+    "cefr": "A2"
+  },
+  {
+    "stem": "cower",
+    "past": "cowered",
+    "past participle": "cowered",
+    "3 SG": "cowers",
+    "ing": "cowering",
+    "cefr": ""
+  },
+  {
+    "stem": "crack",
+    "past": "cracked",
+    "past participle": "cracked",
+    "3 SG": "cracks",
+    "ing": "cracking",
+    "cefr": "B2"
+  },
+  {
+    "stem": "crackle",
+    "past": "crackled",
+    "past participle": "crackled",
+    "3 SG": "crackles",
+    "ing": "crackling",
+    "cefr": ""
+  },
+  {
+    "stem": "crash",
+    "past": "crashed",
+    "past participle": "crashed",
+    "3 SG": "crashes",
+    "ing": "crashing",
+    "cefr": "B1"
+  },
+  {
+    "stem": "crave",
+    "past": "craved",
+    "past participle": "craved",
+    "3 SG": "craves",
+    "ing": "craving",
+    "cefr": ""
+  },
+  {
+    "stem": "create",
+    "past": "created",
+    "past participle": "created",
+    "3 SG": "creates",
+    "ing": "creating",
+    "cefr": "A2"
+  },
+  {
+    "stem": "creep",
+    "past": "crept",
+    "past participle": "crept",
+    "3 SG": "creeps",
+    "ing": "creeping",
+    "cefr": ""
+  },
+  {
+    "stem": "crib",
+    "past": "cribbed",
+    "past participle": "cribbed",
+    "3 SG": "cribs",
+    "ing": "cribbing",
+    "cefr": ""
+  },
+  {
+    "stem": "cross",
+    "past": "crossed",
+    "past participle": "crossed",
+    "3 SG": "crosses",
+    "ing": "crossing",
+    "cefr": "A2"
+  },
+  {
+    "stem": "crowd",
+    "past": "crowded",
+    "past participle": "crowded",
+    "3 SG": "crowds",
+    "ing": "crowding",
+    "cefr": "A2"
+  },
+  {
+    "stem": "crush",
+    "past": "crushed",
+    "past participle": "crushed",
+    "3 SG": "crushes",
+    "ing": "crushing",
+    "cefr": "B1"
+  },
+  {
+    "stem": "cry",
+    "past": "cried",
+    "past participle": "cried",
+    "3 SG": "cries",
+    "ing": "crying",
+    "cefr": "A2"
+  },
+  {
+    "stem": "curb",
+    "past": "curbed",
+    "past participle": "curbed",
+    "3 SG": "curbs",
+    "ing": "curbing",
+    "cefr": ""
+  },
+  {
+    "stem": "cure",
+    "past": "cured",
+    "past participle": "cured",
+    "3 SG": "cures",
+    "ing": "curing",
+    "cefr": "B2"
+  },
+  {
+    "stem": "curve",
+    "past": "curved",
+    "past participle": "curved",
+    "3 SG": "curves",
+    "ing": "curving",
+    "cefr": "B1"
+  },
+  {
+    "stem": "cut",
+    "past": "cut",
+    "past participle": "cut",
+    "3 SG": "cuts",
+    "ing": "cutting",
+    "cefr": "A1"
+  },
+  {
+    "stem": "cycle",
+    "past": "cycled",
+    "past participle": "cycled",
+    "3 SG": "cycles",
+    "ing": "cycling",
+    "cefr": "B1"
+  },
+  {
+    "stem": "damage",
+    "past": "damaged",
+    "past participle": "damaged",
+    "3 SG": "damages",
+    "ing": "damaging",
+    "cefr": "B1"
+  },
+  {
+    "stem": "damp",
+    "past": "damped",
+    "past participle": "damped",
+    "3 SG": "damps",
+    "ing": "damping",
+    "cefr": "B1"
+  },
+  {
+    "stem": "dance",
+    "past": "danced",
+    "past participle": "danced",
+    "3 SG": "dances",
+    "ing": "dancing",
+    "cefr": "A1"
+  },
+  {
+    "stem": "dare",
+    "past": "dared",
+    "past participle": "dared",
+    "3 SG": "dares",
+    "ing": "daring",
+    "cefr": "B1"
+  },
+  {
+    "stem": "dash",
+    "past": "dashed",
+    "past participle": "dashed",
+    "3 SG": "dashes",
+    "ing": "dashing",
+    "cefr": "B2"
+  },
+  {
+    "stem": "dazzle",
+    "past": "dazzled",
+    "past participle": "dazzled",
+    "3 SG": "dazzles",
+    "ing": "dazzling",
+    "cefr": "B1"
+  },
+  {
+    "stem": "deal",
+    "past": "dealt",
+    "past participle": "dealt",
+    "3 SG": "deals",
+    "ing": "dealing",
+    "cefr": "B1"
+  },
+  {
+    "stem": "decay",
+    "past": "decayed",
+    "past participle": "decayed",
+    "3 SG": "decays",
+    "ing": "decaying",
+    "cefr": "B2"
+  },
+  {
+    "stem": "decide",
+    "past": "decided",
+    "past participle": "decided",
+    "3 SG": "decides",
+    "ing": "deciding",
+    "cefr": "A2"
+  },
+  {
+    "stem": "declare",
+    "past": "declared",
+    "past participle": "declared",
+    "3 SG": "declares",
+    "ing": "declaring",
+    "cefr": "B1"
+  },
+  {
+    "stem": "decorate",
+    "past": "decorated",
+    "past participle": "decorated",
+    "3 SG": "decorates",
+    "ing": "decorating",
+    "cefr": "B2"
+  },
+  {
+    "stem": "decrease",
+    "past": "decreased",
+    "past participle": "decreased",
+    "3 SG": "decreases",
+    "ing": "decreasing",
+    "cefr": "B1"
+  },
+  {
+    "stem": "dedicate",
+    "past": "dedicated",
+    "past participle": "dedicated",
+    "3 SG": "dedicates",
+    "ing": "dedicating",
+    "cefr": "B1"
+  },
+  {
+    "stem": "delay",
+    "past": "delayed",
+    "past participle": "delayed",
+    "3 SG": "delays",
+    "ing": "delaying",
+    "cefr": "B1"
+  },
+  {
+    "stem": "delete",
+    "past": "deleted",
+    "past participle": "deleted",
+    "3 SG": "deletes",
+    "ing": "deleting",
+    "cefr": "B1"
+  },
+  {
+    "stem": "deny",
+    "past": "denied",
+    "past participle": "denied",
+    "3 SG": "denies",
+    "ing": "denying",
+    "cefr": "B1"
+  },
+  {
+    "stem": "depend",
+    "past": "depended",
+    "past participle": "depended",
+    "3 SG": "depends",
+    "ing": "depending",
+    "cefr": "A2"
+  },
+  {
+    "stem": "deprive",
+    "past": "deprived",
+    "past participle": "deprived",
+    "3 SG": "deprives",
+    "ing": "depriving",
+    "cefr": "B1"
+  },
+  {
+    "stem": "derive",
+    "past": "derived",
+    "past participle": "derived",
+    "3 SG": "derives",
+    "ing": "deriving",
+    "cefr": "B1"
+  },
+  {
+    "stem": "describe",
+    "past": "described",
+    "past participle": "described",
+    "3 SG": "describes",
+    "ing": "describing",
+    "cefr": "A1"
+  },
+  {
+    "stem": "desire",
+    "past": "desired",
+    "past participle": "desired",
+    "3 SG": "desires",
+    "ing": "desiring",
+    "cefr": "B2"
+  },
+  {
+    "stem": "destroy",
+    "past": "destroyed",
+    "past participle": "destroyed",
+    "3 SG": "destroys",
+    "ing": "destroying",
+    "cefr": "A2"
+  },
+  {
+    "stem": "detach",
+    "past": "detached",
+    "past participle": "detached",
+    "3 SG": "detaches",
+    "ing": "detaching",
+    "cefr": "B2"
+  },
+  {
+    "stem": "detect",
+    "past": "detected",
+    "past participle": "detected",
+    "3 SG": "detects",
+    "ing": "detecting",
+    "cefr": "B2"
+  },
+  {
+    "stem": "determine",
+    "past": "determined",
+    "past participle": "determined",
+    "3 SG": "determines",
+    "ing": "determining",
+    "cefr": "B1"
+  },
+  {
+    "stem": "develop",
+    "past": "developed",
+    "past participle": "developed",
+    "3 SG": "develops",
+    "ing": "developing",
+    "cefr": "A2"
+  },
+  {
+    "stem": "die",
+    "past": "died",
+    "past participle": "died",
+    "3 SG": "dies",
+    "ing": "dying",
+    "cefr": "A2"
+  },
+  {
+    "stem": "differ",
+    "past": "differed",
+    "past participle": "differed",
+    "3 SG": "differs",
+    "ing": "differing",
+    "cefr": "B1"
+  },
+  {
+    "stem": "dig",
+    "past": "dug",
+    "past participle": "dug",
+    "3 SG": "digs",
+    "ing": "digging",
+    "cefr": "B1"
+  },
+  {
+    "stem": "digest",
+    "past": "digested",
+    "past participle": "digested",
+    "3 SG": "digests",
+    "ing": "digesting",
+    "cefr": "B2"
+  },
+  {
+    "stem": "dim",
+    "past": "dimmed",
+    "past participle": "dimmed",
+    "3 SG": "dims",
+    "ing": "dimming",
+    "cefr": "B2"
+  },
+  {
+    "stem": "diminish",
+    "past": "diminished",
+    "past participle": "diminished",
+    "3 SG": "diminishes",
+    "ing": "diminishing",
+    "cefr": ""
+  },
+  {
+    "stem": "dine",
+    "past": "dined",
+    "past participle": "dined",
+    "3 SG": "dines",
+    "ing": "dining",
+    "cefr": ""
+  },
+  {
+    "stem": "dip",
+    "past": "dipped",
+    "past participle": "dipped",
+    "3 SG": "dips",
+    "ing": "dipping",
+    "cefr": "B2"
+  },
+  {
+    "stem": "direct",
+    "past": "directed",
+    "past participle": "directed",
+    "3 SG": "directs",
+    "ing": "directing",
+    "cefr": "B1"
+  },
+  {
+    "stem": "disappear",
+    "past": "disappeared",
+    "past participle": "disappeared",
+    "3 SG": "disappears",
+    "ing": "disappearing",
+    "cefr": "A2"
+  },
+  {
+    "stem": "discover",
+    "past": "discovered",
+    "past participle": "discovered",
+    "3 SG": "discovers",
+    "ing": "discovering",
+    "cefr": "A2"
+  },
+  {
+    "stem": "discuss",
+    "past": "discussed",
+    "past participle": "discussed",
+    "3 SG": "discusses",
+    "ing": "discussing",
+    "cefr": "A1"
+  },
+  {
+    "stem": "disobey",
+    "past": "disobeyed",
+    "past participle": "disobeyed",
+    "3 SG": "disobeys",
+    "ing": "disobeying",
+    "cefr": ""
+  },
+  {
+    "stem": "display",
+    "past": "displayed",
+    "past participle": "displayed",
+    "3 SG": "displays",
+    "ing": "displaying",
+    "cefr": "B1"
+  },
+  {
+    "stem": "dispose",
+    "past": "disposed",
+    "past participle": "disposed",
+    "3 SG": "disposes",
+    "ing": "disposing",
+    "cefr": ""
+  },
+  {
+    "stem": "distribute",
+    "past": "distributed",
+    "past participle": "distributed",
+    "3 SG": "distributes",
+    "ing": "distributing",
+    "cefr": "B1"
+  },
+  {
+    "stem": "disturb",
+    "past": "disturbed",
+    "past participle": "disturbed",
+    "3 SG": "disturbs",
+    "ing": "disturbing",
+    "cefr": "A2"
+  },
+  {
+    "stem": "disuse",
+    "past": "disused",
+    "past participle": "disused",
+    "3 SG": "disuses",
+    "ing": "disusing",
+    "cefr": ""
+  },
+  {
+    "stem": "dive",
+    "past": "dived",
+    "past participle": "dived",
+    "3 SG": "dives",
+    "ing": "diving",
+    "cefr": "B1"
+  },
+  {
+    "stem": "divide",
+    "past": "divided",
+    "past participle": "divided",
+    "3 SG": "divides",
+    "ing": "dividing",
+    "cefr": "A2"
+  },
+  {
+    "stem": "do",
+    "past": "did",
+    "past participle": "done",
+    "3 SG": "does",
+    "ing": "doing",
+    "cefr": "A1"
+  },
+  {
+    "stem": "donate",
+    "past": "donated",
+    "past participle": "donated",
+    "3 SG": "donates",
+    "ing": "donating",
+    "cefr": "B2"
+  },
+  {
+    "stem": "download",
+    "past": "downloaded",
+    "past participle": "downloaded",
+    "3 SG": "downloads",
+    "ing": "downloading",
+    "cefr": "A2"
+  },
+  {
+    "stem": "drag",
+    "past": "dragged",
+    "past participle": "dragged",
+    "3 SG": "drags",
+    "ing": "dragging",
+    "cefr": "B1"
+  },
+  {
+    "stem": "draw",
+    "past": "drew",
+    "past participle": "drawn",
+    "3 SG": "draws",
+    "ing": "drawing",
+    "cefr": "A1"
+  },
+  {
+    "stem": "dream",
+    "past": "dreamt",
+    "past participle": "dreamt",
+    "3 SG": "dreams",
+    "ing": "dreaming",
+    "cefr": "A2"
+  },
+  {
+    "stem": "dress",
+    "past": "dressed",
+    "past participle": "dressed",
+    "3 SG": "dresses",
+    "ing": "dressing",
+    "cefr": "A2"
+  },
+  {
+    "stem": "drill",
+    "past": "drilled",
+    "past participle": "drilled",
+    "3 SG": "drills",
+    "ing": "drilling",
+    "cefr": "A2"
+  },
+  {
+    "stem": "drink",
+    "past": "drank",
+    "past participle": "drunk",
+    "3 SG": "drinks",
+    "ing": "drinking",
+    "cefr": "A1"
+  },
+  {
+    "stem": "drive",
+    "past": "drove",
+    "past participle": "driven",
+    "3 SG": "drives",
+    "ing": "driving",
+    "cefr": "A2"
+  },
+  {
+    "stem": "drop",
+    "past": "dropped",
+    "past participle": "dropped",
+    "3 SG": "drops",
+    "ing": "dropping",
+    "cefr": "A1"
+  },
+  {
+    "stem": "dry",
+    "past": "dried",
+    "past participle": "dried",
+    "3 SG": "dries",
+    "ing": "drying",
+    "cefr": "A2"
+  },
+  {
+    "stem": "dump",
+    "past": "dumped",
+    "past participle": "dumped",
+    "3 SG": "dumps",
+    "ing": "dumping",
+    "cefr": "B1"
+  },
+  {
+    "stem": "dwell",
+    "past": "dwelt",
+    "past participle": "dwelt",
+    "3 SG": "dwells",
+    "ing": "dwelling",
+    "cefr": ""
+  },
+  {
+    "stem": "dye",
+    "past": "dyed",
+    "past participle": "dyed",
+    "3 SG": "dyes",
+    "ing": "dyeing",
+    "cefr": "B2"
+  },
+  {
+    "stem": "earn",
+    "past": "earned",
+    "past participle": "earned",
+    "3 SG": "earns",
+    "ing": "earning",
+    "cefr": "A2"
+  },
+  {
+    "stem": "eat",
+    "past": "ate",
+    "past participle": "eaten",
+    "3 SG": "eats",
+    "ing": "eating",
+    "cefr": "A1"
+  },
+  {
+    "stem": "educate",
+    "past": "educated",
+    "past participle": "educated",
+    "3 SG": "educates",
+    "ing": "educating",
+    "cefr": "B1"
+  },
+  {
+    "stem": "empower",
+    "past": "empowered",
+    "past participle": "empowered",
+    "3 SG": "empowers",
+    "ing": "empowering",
+    "cefr": ""
+  },
+  {
+    "stem": "empty",
+    "past": "emptied",
+    "past participle": "emptied",
+    "3 SG": "empties",
+    "ing": "emptying",
+    "cefr": "A2"
+  },
+  {
+    "stem": "encircle",
+    "past": "encircled",
+    "past participle": "encircled",
+    "3 SG": "encircles",
+    "ing": "encircling",
+    "cefr": ""
+  },
+  {
+    "stem": "encourage",
+    "past": "encouraged",
+    "past participle": "encouraged",
+    "3 SG": "encourages",
+    "ing": "encouraging",
+    "cefr": "A2"
+  },
+  {
+    "stem": "encroach",
+    "past": "encroached",
+    "past participle": "encroached",
+    "3 SG": "encroaches",
+    "ing": "encroaching",
+    "cefr": ""
+  },
+  {
+    "stem": "endanger",
+    "past": "endangered",
+    "past participle": "endangered",
+    "3 SG": "endangers",
+    "ing": "entangling",
+    "cefr": "B1"
+  },
+  {
+    "stem": "endorse",
+    "past": "endorsed",
+    "past participle": "endorsed",
+    "3 SG": "endorses",
+    "ing": "endorsing",
+    "cefr": "B2"
+  },
+  {
+    "stem": "endure",
+    "past": "endured",
+    "past participle": "endured",
+    "3 SG": "endures",
+    "ing": "enduring",
+    "cefr": "B1"
+  },
+  {
+    "stem": "engrave",
+    "past": "engraved",
+    "past participle": "engraved",
+    "3 SG": "engraves",
+    "ing": "engraving",
+    "cefr": ""
+  },
+  {
+    "stem": "enjoy",
+    "past": "enjoyed",
+    "past participle": "enjoyed",
+    "3 SG": "enjoys",
+    "ing": "enjoying",
+    "cefr": "A1"
+  },
+  {
+    "stem": "enlarge",
+    "past": "enlarged",
+    "past participle": "enlarged",
+    "3 SG": "enlarges",
+    "ing": "enlarging",
+    "cefr": ""
+  },
+  {
+    "stem": "enlighten",
+    "past": "enlightened",
+    "past participle": "enlightened",
+    "3 SG": "enlightens",
+    "ing": "enlightening",
+    "cefr": ""
+  },
+  {
+    "stem": "enter",
+    "past": "entered",
+    "past participle": "entered",
+    "3 SG": "enters",
+    "ing": "entering",
+    "cefr": "A2"
+  },
+  {
+    "stem": "envy",
+    "past": "envied",
+    "past participle": "envied",
+    "3 SG": "envies",
+    "ing": "envying",
+    "cefr": "B2"
+  },
+  {
+    "stem": "erase",
+    "past": "erased",
+    "past participle": "erased",
+    "3 SG": "erases",
+    "ing": "erasing",
+    "cefr": ""
+  },
+  {
+    "stem": "escape",
+    "past": "escaped",
+    "past participle": "escaped",
+    "3 SG": "escapes",
+    "ing": "escaping",
+    "cefr": "B1"
+  },
+  {
+    "stem": "evaporate",
+    "past": "evaporated",
+    "past participle": "evaporated",
+    "3 SG": "evaporates",
+    "ing": "evaporating",
+    "cefr": ""
+  },
+  {
+    "stem": "exchange",
+    "past": "exchanged",
+    "past participle": "exchanged",
+    "3 SG": "exchanges",
+    "ing": "exchanging",
+    "cefr": "B1"
+  },
+  {
+    "stem": "exclaim",
+    "past": "exclaimed",
+    "past participle": "exclaimed",
+    "3 SG": "exclaims",
+    "ing": "exclaiming",
+    "cefr": "B2"
+  },
+  {
+    "stem": "exclude",
+    "past": "excluded",
+    "past participle": "excluded",
+    "3 SG": "excludes",
+    "ing": "excluding",
+    "cefr": "B2"
+  },
+  {
+    "stem": "exist",
+    "past": "existed",
+    "past participle": "existed",
+    "3 SG": "exists",
+    "ing": "existing",
+    "cefr": "A2"
+  },
+  {
+    "stem": "expand",
+    "past": "expanded",
+    "past participle": "expanded",
+    "3 SG": "expands",
+    "ing": "expanding",
+    "cefr": "B1"
+  },
+  {
+    "stem": "expect",
+    "past": "expected",
+    "past participle": "expected",
+    "3 SG": "expects",
+    "ing": "expecting",
+    "cefr": "A2"
+  },
+  {
+    "stem": "explain",
+    "past": "explained",
+    "past participle": "explained",
+    "3 SG": "explains",
+    "ing": "explaining",
+    "cefr": "A2"
+  },
+  {
+    "stem": "explore",
+    "past": "explored",
+    "past participle": "explored",
+    "3 SG": "explores",
+    "ing": "exploring",
+    "cefr": "A2"
+  },
+  {
+    "stem": "express",
+    "past": "expressed",
+    "past participle": "expressed",
+    "3 SG": "expresses",
+    "ing": "expressing",
+    "cefr": "B1"
+  },
+  {
+    "stem": "extend",
+    "past": "extended",
+    "past participle": "extended",
+    "3 SG": "extends",
+    "ing": "extending",
+    "cefr": "B1"
+  },
+  {
+    "stem": "eye",
+    "past": "eyed",
+    "past participle": "eyed",
+    "3 SG": "eyes",
+    "ing": "eyeing",
+    "cefr": "A1"
+  },
+  {
+    "stem": "face",
+    "past": "faced",
+    "past participle": "faced",
+    "3 SG": "faces",
+    "ing": "facing",
+    "cefr": "A2"
+  },
+  {
+    "stem": "fail",
+    "past": "failed",
+    "past participle": "failed",
+    "3 SG": "fails",
+    "ing": "failing",
+    "cefr": "A2"
+  },
+  {
+    "stem": "faint",
+    "past": "fainted",
+    "past participle": "fainted",
+    "3 SG": "faints",
+    "ing": "fainting",
+    "cefr": "B2"
+  },
+  {
+    "stem": "fall",
+    "past": "fell",
+    "past participle": "fallen",
+    "3 SG": "falls",
+    "ing": "falling",
+    "cefr": "A2"
+  },
+  {
+    "stem": "fan",
+    "past": "fanned",
+    "past participle": "fanned",
+    "3 SG": "fans",
+    "ing": "fanning",
+    "cefr": "A1"
+  },
+  {
+    "stem": "fancy",
+    "past": "fancied",
+    "past participle": "fancied",
+    "3 SG": "fancies",
+    "ing": "fancying",
+    "cefr": "B1"
+  },
+  {
+    "stem": "favour",
+    "past": "favoured",
+    "past participle": "favoured",
+    "3 SG": "favours",
+    "ing": "favouring",
+    "cefr": ""
+  },
+  {
+    "stem": "fax",
+    "past": "faxed",
+    "past participle": "faxed",
+    "3 SG": "faxes",
+    "ing": "faxing",
+    "cefr": "B1"
+  },
+  {
+    "stem": "feed",
+    "past": "fed",
+    "past participle": "fed",
+    "3 SG": "feeds",
+    "ing": "feeding",
+    "cefr": "B1"
+  },
+  {
+    "stem": "feel",
+    "past": "felt",
+    "past participle": "felt",
+    "3 SG": "feels",
+    "ing": "feeling",
+    "cefr": "A1"
+  },
+  {
+    "stem": "ferry",
+    "past": "ferried",
+    "past participle": "ferried",
+    "3 SG": "ferries",
+    "ing": "ferrying",
+    "cefr": "B1"
+  },
+  {
+    "stem": "fetch",
+    "past": "fetched",
+    "past participle": "fetched",
+    "3 SG": "fetches",
+    "ing": "fetching",
+    "cefr": "B1"
+  },
+  {
+    "stem": "fight",
+    "past": "fought",
+    "past participle": "fought",
+    "3 SG": "fights",
+    "ing": "fighting",
+    "cefr": "B1"
+  },
+  {
+    "stem": "fill",
+    "past": "filled",
+    "past participle": "filled",
+    "3 SG": "fills",
+    "ing": "filling",
+    "cefr": "A1"
+  },
+  {
+    "stem": "find",
+    "past": "found",
+    "past participle": "found",
+    "3 SG": "finds",
+    "ing": "finding",
+    "cefr": "A1"
+  },
+  {
+    "stem": "finish",
+    "past": "finished",
+    "past participle": "finished",
+    "3 SG": "finishes",
+    "ing": "finishing",
+    "cefr": "A1"
+  },
+  {
+    "stem": "fish",
+    "past": "fished",
+    "past participle": "fished",
+    "3 SG": "fishes",
+    "ing": "fishing",
+    "cefr": "B1"
+  },
+  {
+    "stem": "fit",
+    "past": "fit/fitted",
+    "past participle": "fit/fitted",
+    "3 SG": "fits",
+    "ing": "fitting",
+    "cefr": "B2"
+  },
+  {
+    "stem": "fix",
+    "past": "fixed",
+    "past participle": "fixed",
+    "3 SG": "fixes",
+    "ing": "fixing",
+    "cefr": "B1"
+  },
+  {
+    "stem": "fizz",
+    "past": "fizzed",
+    "past participle": "fizzed",
+    "3 SG": "fizzes",
+    "ing": "fizzing",
+    "cefr": ""
+  },
+  {
+    "stem": "flap",
+    "past": "flapped",
+    "past participle": "flapped",
+    "3 SG": "flaps",
+    "ing": "flapping",
+    "cefr": "B2"
+  },
+  {
+    "stem": "flash",
+    "past": "flashed",
+    "past participle": "flashed",
+    "3 SG": "flashes",
+    "ing": "flashing",
+    "cefr": "B2"
+  },
+  {
+    "stem": "flee",
+    "past": "fled",
+    "past participle": "fled",
+    "3 SG": "flees",
+    "ing": "fleeing",
+    "cefr": "B2"
+  },
+  {
+    "stem": "fling",
+    "past": "flung",
+    "past participle": "flung",
+    "3 SG": "flings",
+    "ing": "flinging",
+    "cefr": ""
+  },
+  {
+    "stem": "float",
+    "past": "floated",
+    "past participle": "floated",
+    "3 SG": "floats",
+    "ing": "floating",
+    "cefr": "B1"
+  },
+  {
+    "stem": "flop",
+    "past": "flopped",
+    "past participle": "flopped",
+    "3 SG": "flops",
+    "ing": "flopping",
+    "cefr": ""
+  },
+  {
+    "stem": "fly",
+    "past": "flew",
+    "past participle": "flown",
+    "3 SG": "flies",
+    "ing": "flying",
+    "cefr": "A1"
+  },
+  {
+    "stem": "fold",
+    "past": "folded",
+    "past participle": "folded",
+    "3 SG": "folds",
+    "ing": "folding",
+    "cefr": "B1"
+  },
+  {
+    "stem": "follow",
+    "past": "followed",
+    "past participle": "followed",
+    "3 SG": "follows",
+    "ing": "following",
+    "cefr": "A2"
+  },
+  {
+    "stem": "forbid",
+    "past": "forbade",
+    "past participle": "forbidden",
+    "3 SG": "forbids",
+    "ing": "forbidding",
+    "cefr": "A2"
+  },
+  {
+    "stem": "force",
+    "past": "forced",
+    "past participle": "forced",
+    "3 SG": "forces",
+    "ing": "forcing",
+    "cefr": "B2"
+  },
+  {
+    "stem": "forecast",
+    "past": "forecast",
+    "past participle": "forecast",
+    "3 SG": "forecasts",
+    "ing": "forecasting",
+    "cefr": "B1"
+  },
+  {
+    "stem": "foretell",
+    "past": "foretold",
+    "past participle": "foretold",
+    "3 SG": "foretells",
+    "ing": "foretelling",
+    "cefr": ""
+  },
+  {
+    "stem": "forget",
+    "past": "forgot",
+    "past participle": "forgotten",
+    "3 SG": "forgets",
+    "ing": "forgetting",
+    "cefr": "A1"
+  },
+  {
+    "stem": "forgive",
+    "past": "forgave",
+    "past participle": "forgiven",
+    "3 SG": "forgives",
+    "ing": "forgiving",
+    "cefr": "B1"
+  },
+  {
+    "stem": "forlese",
+    "past": "forlore",
+    "past participle": "forlorn",
+    "3 SG": "forlese",
+    "ing": "forlesing",
+    "cefr": ""
+  },
+  {
+    "stem": "form",
+    "past": "formed",
+    "past participle": "formed",
+    "3 SG": "forms",
+    "ing": "forming",
+    "cefr": "B1"
+  },
+  {
+    "stem": "forsake",
+    "past": "forsook",
+    "past participle": "forsaken",
+    "3 SG": "forsakes",
+    "ing": "forsaking",
+    "cefr": ""
+  },
+  {
+    "stem": "found",
+    "past": "founded",
+    "past participle": "founded",
+    "3 SG": "founds",
+    "ing": "founding",
+    "cefr": "B2"
+  },
+  {
+    "stem": "frame",
+    "past": "framed",
+    "past participle": "framed",
+    "3 SG": "frames",
+    "ing": "framing",
+    "cefr": "B2"
+  },
+  {
+    "stem": "free",
+    "past": "freed",
+    "past participle": "freed",
+    "3 SG": "frees",
+    "ing": "freeing",
+    "cefr": "A2"
+  },
+  {
+    "stem": "freeze",
+    "past": "froze",
+    "past participle": "frozen",
+    "3 SG": "freezes",
+    "ing": "freezing",
+    "cefr": "A2"
+  },
+  {
+    "stem": "frighten",
+    "past": "frightened",
+    "past participle": "frightened",
+    "3 SG": "frightens",
+    "ing": "frightening",
+    "cefr": "A2"
+  },
+  {
+    "stem": "fry",
+    "past": "fried",
+    "past participle": "fried",
+    "3 SG": "fries",
+    "ing": "frying",
+    "cefr": "B1"
+  },
+  {
+    "stem": "fulfil",
+    "past": "fulfilled",
+    "past participle": "fulfilled",
+    "3 SG": "fulfils",
+    "ing": "fulfilling",
+    "cefr": ""
+  },
+  {
+    "stem": "gag",
+    "past": "gagged",
+    "past participle": "gagged",
+    "3 SG": "gags",
+    "ing": "gagging",
+    "cefr": ""
+  },
+  {
+    "stem": "gain",
+    "past": "gained",
+    "past participle": "gained",
+    "3 SG": "gains",
+    "ing": "gaining",
+    "cefr": "B1"
+  },
+  {
+    "stem": "gainsay",
+    "past": "gainsaid",
+    "past participle": "gainsaid",
+    "3 SG": "gainsays",
+    "ing": "gainsaying",
+    "cefr": ""
+  },
+  {
+    "stem": "gash",
+    "past": "gashed",
+    "past participle": "gashed",
+    "3 SG": "gashes",
+    "ing": "gashing",
+    "cefr": ""
+  },
+  {
+    "stem": "gaze",
+    "past": "gazed",
+    "past participle": "gazed",
+    "3 SG": "gazes",
+    "ing": "gazing",
+    "cefr": "B2"
+  },
+  {
+    "stem": "get",
+    "past": "got",
+    "past participle": "got",
+    "3 SG": "gets",
+    "ing": "getting",
+    "cefr": "A1"
+  },
+  {
+    "stem": "give",
+    "past": "gave",
+    "past participle": "given",
+    "3 SG": "gives",
+    "ing": "giving",
+    "cefr": "A1"
+  },
+  {
+    "stem": "glance",
+    "past": "glanced",
+    "past participle": "glanced",
+    "3 SG": "glances",
+    "ing": "glancing",
+    "cefr": "B1"
+  },
+  {
+    "stem": "glitter",
+    "past": "glittered",
+    "past participle": "glittered",
+    "3 SG": "glitters",
+    "ing": "glittering",
+    "cefr": ""
+  },
+  {
+    "stem": "glow",
+    "past": "glowed",
+    "past participle": "glowed",
+    "3 SG": "glows",
+    "ing": "glowing",
+    "cefr": "B2"
+  },
+  {
+    "stem": "go",
+    "past": "went",
+    "past participle": "gone",
+    "3 SG": "goes",
+    "ing": "going",
+    "cefr": "A1"
+  },
+  {
+    "stem": "google",
+    "past": "googled",
+    "past participle": "googled",
+    "3 SG": "googles",
+    "ing": "googling",
+    "cefr": ""
+  },
+  {
+    "stem": "govern",
+    "past": "governed",
+    "past participle": "governed",
+    "3 SG": "governs",
+    "ing": "governing",
+    "cefr": "B1"
+  },
+  {
+    "stem": "grab",
+    "past": "grabbed",
+    "past participle": "grabbed",
+    "3 SG": "grabs",
+    "ing": "grabbing",
+    "cefr": "B1"
+  },
+  {
+    "stem": "grade",
+    "past": "graded",
+    "past participle": "graded",
+    "3 SG": "grades",
+    "ing": "grading",
+    "cefr": "B2"
+  },
+  {
+    "stem": "grant",
+    "past": "granted",
+    "past participle": "granted",
+    "3 SG": "grants",
+    "ing": "granting",
+    "cefr": "B1"
+  },
+  {
+    "stem": "greet",
+    "past": "greeted",
+    "past participle": "greeted",
+    "3 SG": "greets",
+    "ing": "greeting",
+    "cefr": "A1"
+  },
+  {
+    "stem": "grind",
+    "past": "ground",
+    "past participle": "ground",
+    "3 SG": "grinds",
+    "ing": "grinding",
+    "cefr": ""
+  },
+  {
+    "stem": "grip",
+    "past": "gripped",
+    "past participle": "gripped",
+    "3 SG": "grips",
+    "ing": "gripping",
+    "cefr": "B2"
+  },
+  {
+    "stem": "grow",
+    "past": "grew",
+    "past participle": "grown",
+    "3 SG": "grows",
+    "ing": "growing",
+    "cefr": "A1"
+  },
+  {
+    "stem": "guard",
+    "past": "guarded",
+    "past participle": "guarded",
+    "3 SG": "guards",
+    "ing": "guarding",
+    "cefr": "B2"
+  },
+  {
+    "stem": "guess",
+    "past": "guessed",
+    "past participle": "guessed",
+    "3 SG": "guesses",
+    "ing": "guessing",
+    "cefr": "A1"
+  },
+  {
+    "stem": "guide",
+    "past": "guided",
+    "past participle": "guided",
+    "3 SG": "guides",
+    "ing": "guiding",
+    "cefr": "B1"
+  },
+  {
+    "stem": "handle",
+    "past": "handled",
+    "past participle": "handled",
+    "3 SG": "handles",
+    "ing": "handling",
+    "cefr": "B1"
+  },
+  {
+    "stem": "hang",
+    "past": "hung",
+    "past participle": "hung",
+    "3 SG": "hangs",
+    "ing": "hanging",
+    "cefr": "B1"
+  },
+  {
+    "stem": "happen",
+    "past": "happened",
+    "past participle": "happened",
+    "3 SG": "happens",
+    "ing": "happening",
+    "cefr": "A1"
+  },
+  {
+    "stem": "harm",
+    "past": "harmed",
+    "past participle": "harmed",
+    "3 SG": "harms",
+    "ing": "harming",
+    "cefr": "A2"
+  },
+  {
+    "stem": "hatch",
+    "past": "hatched",
+    "past participle": "hatched",
+    "3 SG": "hatches",
+    "ing": "hatching",
+    "cefr": "B1"
+  },
+  {
+    "stem": "hate",
+    "past": "hated",
+    "past participle": "hated",
+    "3 SG": "hates",
+    "ing": "hating",
+    "cefr": "A2"
+  },
+  {
+    "stem": "have",
+    "past": "had",
+    "past participle": "had",
+    "3 SG": "has",
+    "ing": "having",
+    "cefr": "A1"
+  },
+  {
+    "stem": "heal",
+    "past": "healed",
+    "past participle": "healed",
+    "3 SG": "heals",
+    "ing": "healing",
+    "cefr": "B1"
+  },
+  {
+    "stem": "hear",
+    "past": "heard",
+    "past participle": "heard",
+    "3 SG": "hears",
+    "ing": "hearing",
+    "cefr": "A1"
+  },
+  {
+    "stem": "heave",
+    "past": "hove",
+    "past participle": "hove",
+    "3 SG": "heaves",
+    "ing": "heaving",
+    "cefr": ""
+  },
+  {
+    "stem": "help",
+    "past": "helped",
+    "past participle": "helped",
+    "3 SG": "helps",
+    "ing": "helping",
+    "cefr": "A1"
+  },
+  {
+    "stem": "hew",
+    "past": "hewed",
+    "past participle": "hewn",
+    "3 SG": "hews",
+    "ing": "hewing",
+    "cefr": ""
+  },
+  {
+    "stem": "hide",
+    "past": "hid",
+    "past participle": "hidden",
+    "3 SG": "hides",
+    "ing": "hiding",
+    "cefr": "A1"
+  },
+  {
+    "stem": "hinder",
+    "past": "hindered",
+    "past participle": "hindered",
+    "3 SG": "hinders",
+    "ing": "hindering",
+    "cefr": ""
+  },
+  {
+    "stem": "hiss",
+    "past": "hissed",
+    "past participle": "hissed",
+    "3 SG": "hisses",
+    "ing": "hissing",
+    "cefr": ""
+  },
+  {
+    "stem": "hit",
+    "past": "hit",
+    "past participle": "hit",
+    "3 SG": "hits",
+    "ing": "hitting",
+    "cefr": "A2"
+  },
+  {
+    "stem": "hoax",
+    "past": "hoaxed",
+    "past participle": "hoaxed",
+    "3 SG": "hoaxes",
+    "ing": "hoaxing",
+    "cefr": ""
+  },
+  {
+    "stem": "hold",
+    "past": "held",
+    "past participle": "held",
+    "3 SG": "holds",
+    "ing": "holding",
+    "cefr": "A2"
+  },
+  {
+    "stem": "hop",
+    "past": "hopped",
+    "past participle": "hopped",
+    "3 SG": "hops",
+    "ing": "hopping",
+    "cefr": "B1"
+  },
+  {
+    "stem": "hope",
+    "past": "hoped",
+    "past participle": "hoped",
+    "3 SG": "hopes",
+    "ing": "hoping",
+    "cefr": "B1"
+  },
+  {
+    "stem": "horrify",
+    "past": "horrified",
+    "past participle": "horrified",
+    "3 SG": "horrifies",
+    "ing": "horrifying",
+    "cefr": "B1"
+  },
+  {
+    "stem": "hug",
+    "past": "hugged",
+    "past participle": "hugged",
+    "3 SG": "hugs",
+    "ing": "hugging",
+    "cefr": "A2"
+  },
+  {
+    "stem": "hum",
+    "past": "hummed",
+    "past participle": "hummed",
+    "3 SG": "hums",
+    "ing": "humming",
+    "cefr": ""
+  },
+  {
+    "stem": "humiliate",
+    "past": "humiliated",
+    "past participle": "humiliated",
+    "3 SG": "humiliates",
+    "ing": "humiliating",
+    "cefr": "B2"
+  },
+  {
+    "stem": "hunt",
+    "past": "hunted",
+    "past participle": "hunted",
+    "3 SG": "hunts",
+    "ing": "hunting",
+    "cefr": "B1"
+  },
+  {
+    "stem": "hurl",
+    "past": "hurled",
+    "past participle": "hurled",
+    "3 SG": "hurls",
+    "ing": "hurling",
+    "cefr": ""
+  },
+  {
+    "stem": "hurry",
+    "past": "hurried",
+    "past participle": "hurried",
+    "3 SG": "hurries",
+    "ing": "hurrying",
+    "cefr": "A2"
+  },
+  {
+    "stem": "hurt",
+    "past": "hurt",
+    "past participle": "hurt",
+    "3 SG": "hurts",
+    "ing": "hurting",
+    "cefr": "A1"
+  },
+  {
+    "stem": "hush",
+    "past": "hushed",
+    "past participle": "hushed",
+    "3 SG": "hushes",
+    "ing": "hushing",
+    "cefr": "B2"
+  },
+  {
+    "stem": "hustle",
+    "past": "hustled",
+    "past participle": "hustled",
+    "3 SG": "hustles",
+    "ing": "hustling",
+    "cefr": ""
+  },
+  {
+    "stem": "hypnotize",
+    "past": "hypnotized",
+    "past participle": "hypnotized",
+    "3 SG": "hypnotizes",
+    "ing": "hypnotizing",
+    "cefr": ""
+  },
+  {
+    "stem": "idealize",
+    "past": "idealized",
+    "past participle": "idealized",
+    "3 SG": "idealizes",
+    "ing": "idealizing",
+    "cefr": ""
+  },
+  {
+    "stem": "identify",
+    "past": "identified",
+    "past participle": "identified",
+    "3 SG": "identifies",
+    "ing": "identifying",
+    "cefr": "B2"
+  },
+  {
+    "stem": "idolize",
+    "past": "idolized",
+    "past participle": "idolized",
+    "3 SG": "idolizes",
+    "ing": "idolizing",
+    "cefr": ""
+  },
+  {
+    "stem": "ignite",
+    "past": "ignited",
+    "past participle": "ignited",
+    "3 SG": "ignites",
+    "ing": "igniting",
+    "cefr": ""
+  },
+  {
+    "stem": "ignore",
+    "past": "ignored",
+    "past participle": "ignored",
+    "3 SG": "ignores",
+    "ing": "ignoring",
+    "cefr": "B1"
+  },
+  {
+    "stem": "ill-treat",
+    "past": "ill-treated",
+    "past participle": "ill-treated",
+    "3 SG": "ill-treats",
+    "ing": "ill-treating",
+    "cefr": ""
+  },
+  {
+    "stem": "illuminate",
+    "past": "illuminated",
+    "past participle": "illuminated",
+    "3 SG": "illuminates",
+    "ing": "illuminating",
+    "cefr": "B1"
+  },
+  {
+    "stem": "illumine",
+    "past": "illumined",
+    "past participle": "illumined",
+    "3 SG": "illumines",
+    "ing": "illumining",
+    "cefr": ""
+  },
+  {
+    "stem": "illustrate",
+    "past": "illustrated",
+    "past participle": "illustrated",
+    "3 SG": "illustrates",
+    "ing": "illustrating",
+    "cefr": "B2"
+  },
+  {
+    "stem": "imagine",
+    "past": "imagined",
+    "past participle": "imagined",
+    "3 SG": "imagines",
+    "ing": "imagining",
+    "cefr": "A1"
+  },
+  {
+    "stem": "imbibe",
+    "past": "imbibed",
+    "past participle": "imbibed",
+    "3 SG": "imbibes",
+    "ing": "imbibing",
+    "cefr": ""
+  },
+  {
+    "stem": "imitate",
+    "past": "imitated",
+    "past participle": "imitated",
+    "3 SG": "imitates",
+    "ing": "imitating",
+    "cefr": "B1"
+  },
+  {
+    "stem": "immerse",
+    "past": "immersed",
+    "past participle": "immersed",
+    "3 SG": "immerses",
+    "ing": "immersing",
+    "cefr": "B2"
+  },
+  {
+    "stem": "immolate",
+    "past": "immolated",
+    "past participle": "immolated",
+    "3 SG": "immolates",
+    "ing": "immolating",
+    "cefr": ""
+  },
+  {
+    "stem": "immure",
+    "past": "immured",
+    "past participle": "immured",
+    "3 SG": "immures",
+    "ing": "immuring",
+    "cefr": ""
+  },
+  {
+    "stem": "impair",
+    "past": "impaired",
+    "past participle": "impaired",
+    "3 SG": "impairs",
+    "ing": "impairing",
+    "cefr": "B1"
+  },
+  {
+    "stem": "impart",
+    "past": "imparted",
+    "past participle": "imparted",
+    "3 SG": "imparts",
+    "ing": "imparting",
+    "cefr": ""
+  },
+  {
+    "stem": "impeach",
+    "past": "impeached",
+    "past participle": "impeached",
+    "3 SG": "impeaches",
+    "ing": "impeaching",
+    "cefr": ""
+  },
+  {
+    "stem": "impede",
+    "past": "impeded",
+    "past participle": "impeded",
+    "3 SG": "impedes",
+    "ing": "impeding",
+    "cefr": ""
+  },
+  {
+    "stem": "impel",
+    "past": "impelled",
+    "past participle": "impelled",
+    "3 SG": "impels",
+    "ing": "impelling",
+    "cefr": ""
+  },
+  {
+    "stem": "impend",
+    "past": "impended",
+    "past participle": "impended",
+    "3 SG": "impends",
+    "ing": "impending",
+    "cefr": ""
+  },
+  {
+    "stem": "imperil",
+    "past": "imperilled",
+    "past participle": "imperilled",
+    "3 SG": "imperils",
+    "ing": "imperilling",
+    "cefr": ""
+  },
+  {
+    "stem": "impinge",
+    "past": "impinged",
+    "past participle": "impinged",
+    "3 SG": "impinges",
+    "ing": "impinging",
+    "cefr": ""
+  },
+  {
+    "stem": "implant",
+    "past": "implanted",
+    "past participle": "implanted",
+    "3 SG": "implants",
+    "ing": "implanting",
+    "cefr": ""
+  },
+  {
+    "stem": "implicate",
+    "past": "implicated",
+    "past participle": "implicated",
+    "3 SG": "implicates",
+    "ing": "implicating",
+    "cefr": ""
+  },
+  {
+    "stem": "implode",
+    "past": "imploded",
+    "past participle": "imploded",
+    "3 SG": "implodes",
+    "ing": "imploding",
+    "cefr": ""
+  },
+  {
+    "stem": "implore",
+    "past": "implored",
+    "past participle": "implored",
+    "3 SG": "implores",
+    "ing": "imploring",
+    "cefr": ""
+  },
+  {
+    "stem": "imply",
+    "past": "implied",
+    "past participle": "implied",
+    "3 SG": "implies",
+    "ing": "implying",
+    "cefr": "B2"
+  },
+  {
+    "stem": "import",
+    "past": "imported",
+    "past participle": "imported",
+    "3 SG": "imports",
+    "ing": "importing",
+    "cefr": "B2"
+  },
+  {
+    "stem": "impose",
+    "past": "imposed",
+    "past participle": "imposed",
+    "3 SG": "imposes",
+    "ing": "imposing",
+    "cefr": "B2"
+  },
+  {
+    "stem": "impress",
+    "past": "impressed",
+    "past participle": "impressed",
+    "3 SG": "impresses",
+    "ing": "impressing",
+    "cefr": "A2"
+  },
+  {
+    "stem": "imprint",
+    "past": "imprinted",
+    "past participle": "imprinted",
+    "3 SG": "imprints",
+    "ing": "imprinting",
+    "cefr": ""
+  },
+  {
+    "stem": "imprison",
+    "past": "imprisoned",
+    "past participle": "imprisoned",
+    "3 SG": "imprisons",
+    "ing": "imprisoning",
+    "cefr": "B2"
+  },
+  {
+    "stem": "improve",
+    "past": "improved",
+    "past participle": "improved",
+    "3 SG": "improves",
+    "ing": "improving",
+    "cefr": "A2"
+  },
+  {
+    "stem": "inaugurate",
+    "past": "inaugurated",
+    "past participle": "inaugurated",
+    "3 SG": "inaugurates",
+    "ing": "inaugurating",
+    "cefr": ""
+  },
+  {
+    "stem": "incise",
+    "past": "incised",
+    "past participle": "incised",
+    "3 SG": "incises",
+    "ing": "incising",
+    "cefr": ""
+  },
+  {
+    "stem": "include",
+    "past": "included",
+    "past participle": "included",
+    "3 SG": "includes",
+    "ing": "including",
+    "cefr": "A2"
+  },
+  {
+    "stem": "increase",
+    "past": "increased",
+    "past participle": "increased",
+    "3 SG": "increases",
+    "ing": "increasing",
+    "cefr": "A2"
+  },
+  {
+    "stem": "inculcate",
+    "past": "inculcated",
+    "past participle": "inculcated",
+    "3 SG": "inculcates",
+    "ing": "inculcating",
+    "cefr": ""
+  },
+  {
+    "stem": "indent",
+    "past": "indented",
+    "past participle": "indented",
+    "3 SG": "indents",
+    "ing": "indenting",
+    "cefr": "B2"
+  },
+  {
+    "stem": "indicate",
+    "past": "indicated",
+    "past participle": "indicated",
+    "3 SG": "indicates",
+    "ing": "indicating",
+    "cefr": "A2"
+  },
+  {
+    "stem": "induce",
+    "past": "induced",
+    "past participle": "induced",
+    "3 SG": "induces",
+    "ing": "inducing",
+    "cefr": ""
+  },
+  {
+    "stem": "indulge",
+    "past": "indulged",
+    "past participle": "indulged",
+    "3 SG": "indulges",
+    "ing": "indulging",
+    "cefr": "B2"
+  },
+  {
+    "stem": "infect",
+    "past": "infected",
+    "past participle": "infected",
+    "3 SG": "infects",
+    "ing": "infecting",
+    "cefr": "B2"
+  },
+  {
+    "stem": "infest",
+    "past": "infested",
+    "past participle": "infested",
+    "3 SG": "infests",
+    "ing": "infesting",
+    "cefr": ""
+  },
+  {
+    "stem": "inflame",
+    "past": "inflamed",
+    "past participle": "inflamed",
+    "3 SG": "inflames",
+    "ing": "inflaming",
+    "cefr": ""
+  },
+  {
+    "stem": "inflate",
+    "past": "inflated",
+    "past participle": "inflated",
+    "3 SG": "inflates",
+    "ing": "inflating",
+    "cefr": "B2"
+  },
+  {
+    "stem": "inflect",
+    "past": "inflected",
+    "past participle": "inflected",
+    "3 SG": "inflects",
+    "ing": "inflecting",
+    "cefr": ""
+  },
+  {
+    "stem": "inform",
+    "past": "informed",
+    "past participle": "informed",
+    "3 SG": "informs",
+    "ing": "informing",
+    "cefr": "B1"
+  },
+  {
+    "stem": "infringe",
+    "past": "infringed",
+    "past participle": "infringed",
+    "3 SG": "infringes",
+    "ing": "infringing",
+    "cefr": "B2"
+  },
+  {
+    "stem": "infuse",
+    "past": "infused",
+    "past participle": "infused",
+    "3 SG": "infuses",
+    "ing": "infusing",
+    "cefr": ""
+  },
+  {
+    "stem": "ingest",
+    "past": "ingested",
+    "past participle": "ingested",
+    "3 SG": "ingests",
+    "ing": "ingesting",
+    "cefr": ""
+  },
+  {
+    "stem": "inhabit",
+    "past": "inhabited",
+    "past participle": "inhabited",
+    "3 SG": "inhabits",
+    "ing": "inhabiting",
+    "cefr": "B2"
+  },
+  {
+    "stem": "inhale",
+    "past": "inhaled",
+    "past participle": "inhaled",
+    "3 SG": "inhales",
+    "ing": "inhaling",
+    "cefr": "B1"
+  },
+  {
+    "stem": "inherit",
+    "past": "inherited",
+    "past participle": "inherited",
+    "3 SG": "inherits",
+    "ing": "inheriting",
+    "cefr": "B2"
+  },
+  {
+    "stem": "initiate",
+    "past": "initiated",
+    "past participle": "initiated",
+    "3 SG": "initiates",
+    "ing": "initiating",
+    "cefr": ""
+  },
+  {
+    "stem": "inject",
+    "past": "injected",
+    "past participle": "injected",
+    "3 SG": "injects",
+    "ing": "injecting",
+    "cefr": "B1"
+  },
+  {
+    "stem": "injure",
+    "past": "injured",
+    "past participle": "injured",
+    "3 SG": "injures",
+    "ing": "injuring",
+    "cefr": "A2"
+  },
+  {
+    "stem": "inlay",
+    "past": "inlaid",
+    "past participle": "inlaid",
+    "3 SG": "inlays",
+    "ing": "inlaying",
+    "cefr": ""
+  },
+  {
+    "stem": "innovate",
+    "past": "innovated",
+    "past participle": "innovated",
+    "3 SG": "innovates",
+    "ing": "innovating",
+    "cefr": ""
+  },
+  {
+    "stem": "input",
+    "past": "input",
+    "past participle": "input",
+    "3 SG": "inputs",
+    "ing": "inputting",
+    "cefr": "B2"
+  },
+  {
+    "stem": "inquire",
+    "past": "inquired",
+    "past participle": "inquired",
+    "3 SG": "inquires",
+    "ing": "inquiring",
+    "cefr": ""
+  },
+  {
+    "stem": "inscribe",
+    "past": "inscribed",
+    "past participle": "inscribed",
+    "3 SG": "inscribes",
+    "ing": "inscribing",
+    "cefr": "B1"
+  },
+  {
+    "stem": "insert",
+    "past": "inserted",
+    "past participle": "inserted",
+    "3 SG": "inserts",
+    "ing": "inserting",
+    "cefr": ""
+  },
+  {
+    "stem": "inspect",
+    "past": "inspected",
+    "past participle": "inspected",
+    "3 SG": "inspects",
+    "ing": "inspecting",
+    "cefr": "B2"
+  },
+  {
+    "stem": "inspire",
+    "past": "inspired",
+    "past participle": "inspired",
+    "3 SG": "inspires",
+    "ing": "inspiring",
+    "cefr": "B1"
+  },
+  {
+    "stem": "install",
+    "past": "installed",
+    "past participle": "installed",
+    "3 SG": "installs",
+    "ing": "installing",
+    "cefr": ""
+  },
+  {
+    "stem": "insult",
+    "past": "insulted",
+    "past participle": "insulted",
+    "3 SG": "insults",
+    "ing": "insulting",
+    "cefr": "B2"
+  },
+  {
+    "stem": "insure",
+    "past": "insured",
+    "past participle": "insured",
+    "3 SG": "insures",
+    "ing": "insuring",
+    "cefr": ""
+  },
+  {
+    "stem": "integrate",
+    "past": "integrated",
+    "past participle": "integrated",
+    "3 SG": "integrates",
+    "ing": "integrating",
+    "cefr": "B2"
+  },
+  {
+    "stem": "introduce",
+    "past": "introduced",
+    "past participle": "introduced",
+    "3 SG": "introduces",
+    "ing": "introducing",
+    "cefr": "A1"
+  },
+  {
+    "stem": "invent",
+    "past": "invented",
+    "past participle": "invented",
+    "3 SG": "invents",
+    "ing": "inventing",
+    "cefr": "A2"
+  },
+  {
+    "stem": "invite",
+    "past": "invited",
+    "past participle": "invited",
+    "3 SG": "invites",
+    "ing": "inviting",
+    "cefr": "A2"
+  },
+  {
+    "stem": "join",
+    "past": "joined",
+    "past participle": "joined",
+    "3 SG": "joins",
+    "ing": "joining",
+    "cefr": "A1"
+  },
+  {
+    "stem": "jump",
+    "past": "jumped",
+    "past participle": "jumped",
+    "3 SG": "jumps",
+    "ing": "jumping",
+    "cefr": "A1"
+  },
+  {
+    "stem": "justify",
+    "past": "justified",
+    "past participle": "justified",
+    "3 SG": "justifies",
+    "ing": "justifying",
+    "cefr": "B2"
+  },
+  {
+    "stem": "keep",
+    "past": "kept",
+    "past participle": "kept",
+    "3 SG": "keeps",
+    "ing": "keeping",
+    "cefr": "A1"
+  },
+  {
+    "stem": "kick",
+    "past": "kicked",
+    "past participle": "kicked",
+    "3 SG": "kicks",
+    "ing": "kicking",
+    "cefr": "A1"
+  },
+  {
+    "stem": "kid",
+    "past": "kidded",
+    "past participle": "kidded",
+    "3 SG": "kids",
+    "ing": "kidding",
+    "cefr": "B1"
+  },
+  {
+    "stem": "kill",
+    "past": "killed",
+    "past participle": "killed",
+    "3 SG": "kills",
+    "ing": "killing",
+    "cefr": "A1"
+  },
+  {
+    "stem": "kiss",
+    "past": "kissed",
+    "past participle": "kissed",
+    "3 SG": "kisses",
+    "ing": "kissing",
+    "cefr": "B1"
+  },
+  {
+    "stem": "kneel",
+    "past": "knelt",
+    "past participle": "knelt",
+    "3 SG": "kneels",
+    "ing": "kneeling",
+    "cefr": "B2"
+  },
+  {
+    "stem": "knit",
+    "past": "knit",
+    "past participle": "knit",
+    "3 SG": "knits",
+    "ing": "knitting",
+    "cefr": "B1"
+  },
+  {
+    "stem": "knock",
+    "past": "knocked",
+    "past participle": "knocked",
+    "3 SG": "knocks",
+    "ing": "knocking",
+    "cefr": "B1"
+  },
+  {
+    "stem": "know",
+    "past": "knew",
+    "past participle": "known",
+    "3 SG": "knows",
+    "ing": "knowing",
+    "cefr": "A1"
+  },
+  {
+    "stem": "lade",
+    "past": "laded",
+    "past participle": "laden",
+    "3 SG": "lades",
+    "ing": "lading",
+    "cefr": ""
+  },
+  {
+    "stem": "land",
+    "past": "landed",
+    "past participle": "landed",
+    "3 SG": "lands",
+    "ing": "landing",
+    "cefr": "A2"
+  },
+  {
+    "stem": "last",
+    "past": "lasted",
+    "past participle": "lasted",
+    "3 SG": "lasts",
+    "ing": "lasting",
+    "cefr": "A2"
+  },
+  {
+    "stem": "latch",
+    "past": "latched",
+    "past participle": "latched",
+    "3 SG": "latches",
+    "ing": "latching",
+    "cefr": ""
+  },
+  {
+    "stem": "laugh",
+    "past": "laughed",
+    "past participle": "laughed",
+    "3 SG": "laughs",
+    "ing": "laughing",
+    "cefr": "A1"
+  },
+  {
+    "stem": "lay",
+    "past": "laid",
+    "past participle": "laid",
+    "3 SG": "lays",
+    "ing": "laying",
+    "cefr": "B1"
+  },
+  {
+    "stem": "lead",
+    "past": "led",
+    "past participle": "led",
+    "3 SG": "leads",
+    "ing": "leading",
+    "cefr": "A2"
+  },
+  {
+    "stem": "leak",
+    "past": "leaked",
+    "past participle": "leaked",
+    "3 SG": "leaks",
+    "ing": "leaking",
+    "cefr": "B2"
+  },
+  {
+    "stem": "lean",
+    "past": "leant",
+    "past participle": "leant",
+    "3 SG": "leans",
+    "ing": "leaning",
+    "cefr": "B2"
+  },
+  {
+    "stem": "leap",
+    "past": "leapt",
+    "past participle": "leapt",
+    "3 SG": "leaps",
+    "ing": "leaping",
+    "cefr": "B1"
+  },
+  {
+    "stem": "learn",
+    "past": "learnt",
+    "past participle": "learnt",
+    "3 SG": "learns",
+    "ing": "learning",
+    "cefr": "A1"
+  },
+  {
+    "stem": "leave",
+    "past": "left",
+    "past participle": "left",
+    "3 SG": "leaves",
+    "ing": "leaving",
+    "cefr": "A1"
+  },
+  {
+    "stem": "leer",
+    "past": "leered",
+    "past participle": "leered",
+    "3 SG": "leers",
+    "ing": "leering",
+    "cefr": ""
+  },
+  {
+    "stem": "lend",
+    "past": "lent",
+    "past participle": "lent",
+    "3 SG": "lends",
+    "ing": "lending",
+    "cefr": "A2"
+  },
+  {
+    "stem": "let",
+    "past": "let",
+    "past participle": "let",
+    "3 SG": "lets",
+    "ing": "letting",
+    "cefr": "A1"
+  },
+  {
+    "stem": "lick",
+    "past": "licked",
+    "past participle": "licked",
+    "3 SG": "licks",
+    "ing": "licking",
+    "cefr": "B2"
+  },
+  {
+    "stem": "lie",
+    "past": "lay",
+    "past participle": "lain",
+    "3 SG": "lies",
+    "ing": "lying",
+    "cefr": "A2"
+  },
+  {
+    "stem": "lie",
+    "past": "lied",
+    "past participle": "lied",
+    "3 SG": "lies",
+    "ing": "lying",
+    "cefr": "A2"
+  },
+  {
+    "stem": "lift",
+    "past": "lifted",
+    "past participle": "lifted",
+    "3 SG": "lifts",
+    "ing": "lifting",
+    "cefr": "B1"
+  },
+  {
+    "stem": "light",
+    "past": "lit",
+    "past participle": "lit",
+    "3 SG": "lights",
+    "ing": "lighting",
+    "cefr": "A1"
+  },
+  {
+    "stem": "like",
+    "past": "liked",
+    "past participle": "liked",
+    "3 SG": "likes",
+    "ing": "liking",
+    "cefr": "A1"
+  },
+  {
+    "stem": "limp",
+    "past": "limped",
+    "past participle": "limped",
+    "3 SG": "limps",
+    "ing": "limping",
+    "cefr": "B1"
+  },
+  {
+    "stem": "listen",
+    "past": "listened",
+    "past participle": "listened",
+    "3 SG": "listens",
+    "ing": "listening",
+    "cefr": "A1"
+  },
+  {
+    "stem": "live",
+    "past": "lived",
+    "past participle": "lived",
+    "3 SG": "lives",
+    "ing": "living",
+    "cefr": "A1"
+  },
+  {
+    "stem": "look",
+    "past": "looked",
+    "past participle": "looked",
+    "3 SG": "looks",
+    "ing": "looking",
+    "cefr": "A1"
+  },
+  {
+    "stem": "lose",
+    "past": "lost",
+    "past participle": "lost",
+    "3 SG": "loses",
+    "ing": "losing",
+    "cefr": "A2"
+  },
+  {
+    "stem": "love",
+    "past": "loved",
+    "past participle": "loved",
+    "3 SG": "loves",
+    "ing": "loving",
+    "cefr": "A1"
+  },
+  {
+    "stem": "magnify",
+    "past": "magnified",
+    "past participle": "magnified",
+    "3 SG": "magnifies",
+    "ing": "magnifying",
+    "cefr": "B2"
+  },
+  {
+    "stem": "maintain",
+    "past": "maintained",
+    "past participle": "maintained",
+    "3 SG": "maintains",
+    "ing": "maintaining",
+    "cefr": "B1"
+  },
+  {
+    "stem": "make",
+    "past": "made",
+    "past participle": "made",
+    "3 SG": "makes",
+    "ing": "making",
+    "cefr": "A1"
+  },
+  {
+    "stem": "manage",
+    "past": "managed",
+    "past participle": "managed",
+    "3 SG": "manages",
+    "ing": "managing",
+    "cefr": "A2"
+  },
+  {
+    "stem": "march",
+    "past": "marched",
+    "past participle": "marched",
+    "3 SG": "marches",
+    "ing": "marching",
+    "cefr": "B1"
+  },
+  {
+    "stem": "mark",
+    "past": "marked",
+    "past participle": "marked",
+    "3 SG": "marks",
+    "ing": "marking",
+    "cefr": "A2"
+  },
+  {
+    "stem": "marry",
+    "past": "married",
+    "past participle": "married",
+    "3 SG": "marries",
+    "ing": "marrying",
+    "cefr": "A2"
+  },
+  {
+    "stem": "mash",
+    "past": "mashed",
+    "past participle": "mashed",
+    "3 SG": "mashes",
+    "ing": "mashing",
+    "cefr": "B1"
+  },
+  {
+    "stem": "match",
+    "past": "matched",
+    "past participle": "matched",
+    "3 SG": "matches",
+    "ing": "matching",
+    "cefr": "B1"
+  },
+  {
+    "stem": "matter",
+    "past": "mattered",
+    "past participle": "mattered",
+    "3 SG": "matters",
+    "ing": "mattering",
+    "cefr": "A2"
+  },
+  {
+    "stem": "mean",
+    "past": "meant",
+    "past participle": "meant",
+    "3 SG": "means",
+    "ing": "meaning",
+    "cefr": "B2"
+  },
+  {
+    "stem": "measure",
+    "past": "measured",
+    "past participle": "measured",
+    "3 SG": "measures",
+    "ing": "measuring",
+    "cefr": "B1"
+  },
+  {
+    "stem": "meet",
+    "past": "met",
+    "past participle": "met",
+    "3 SG": "meets",
+    "ing": "meeting",
+    "cefr": "A1"
+  },
+  {
+    "stem": "melt",
+    "past": "melted",
+    "past participle": "melted",
+    "3 SG": "melts",
+    "ing": "melting",
+    "cefr": "B1"
+  },
+  {
+    "stem": "merge",
+    "past": "merged",
+    "past participle": "merged",
+    "3 SG": "merges",
+    "ing": "merging",
+    "cefr": "B2"
+  },
+  {
+    "stem": "mew",
+    "past": "mewed",
+    "past participle": "mewed",
+    "3 SG": "mews",
+    "ing": "mewing",
+    "cefr": ""
+  },
+  {
+    "stem": "migrate",
+    "past": "migrated",
+    "past participle": "migrated",
+    "3 SG": "migrates",
+    "ing": "migrating",
+    "cefr": ""
+  },
+  {
+    "stem": "milk",
+    "past": "milked",
+    "past participle": "milked",
+    "3 SG": "milks",
+    "ing": "milking",
+    "cefr": "A1"
+  },
+  {
+    "stem": "mind",
+    "past": "minded",
+    "past participle": "minded",
+    "3 SG": "minds",
+    "ing": "minding",
+    "cefr": "A2"
+  },
+  {
+    "stem": "mislead",
+    "past": "misled",
+    "past participle": "misled",
+    "3 SG": "misleads",
+    "ing": "misleading",
+    "cefr": "B1"
+  },
+  {
+    "stem": "miss",
+    "past": "missed",
+    "past participle": "missed",
+    "3 SG": "misses",
+    "ing": "missing",
+    "cefr": "A1"
+  },
+  {
+    "stem": "mistake",
+    "past": "mistook",
+    "past participle": "mistaken",
+    "3 SG": "mistakes",
+    "ing": "mistaking",
+    "cefr": "A2"
+  },
+  {
+    "stem": "misuse",
+    "past": "misused",
+    "past participle": "misused",
+    "3 SG": "misuses",
+    "ing": "misusing",
+    "cefr": ""
+  },
+  {
+    "stem": "mix",
+    "past": "mixed",
+    "past participle": "mixed",
+    "3 SG": "mixes",
+    "ing": "mixing",
+    "cefr": "A2"
+  },
+  {
+    "stem": "moan",
+    "past": "moaned",
+    "past participle": "moaned",
+    "3 SG": "moans",
+    "ing": "moaning",
+    "cefr": ""
+  },
+  {
+    "stem": "modify",
+    "past": "modified",
+    "past participle": "modified",
+    "3 SG": "modifies",
+    "ing": "modifying",
+    "cefr": "B1"
+  },
+  {
+    "stem": "moo",
+    "past": "mooed",
+    "past participle": "mooed",
+    "3 SG": "moos",
+    "ing": "mooing",
+    "cefr": ""
+  },
+  {
+    "stem": "motivate",
+    "past": "motivated",
+    "past participle": "motivated",
+    "3 SG": "motivates",
+    "ing": "motivating",
+    "cefr": "B1"
+  },
+  {
+    "stem": "mould",
+    "past": "moulded",
+    "past participle": "moulded",
+    "3 SG": "moulds",
+    "ing": "moulding",
+    "cefr": ""
+  },
+  {
+    "stem": "moult",
+    "past": "moulted",
+    "past participle": "moulted",
+    "3 SG": "moults",
+    "ing": "moulting",
+    "cefr": ""
+  },
+  {
+    "stem": "move",
+    "past": "moved",
+    "past participle": "moved",
+    "3 SG": "moves",
+    "ing": "moving",
+    "cefr": "A2"
+  },
+  {
+    "stem": "mow",
+    "past": "mowed",
+    "past participle": "mown",
+    "3 SG": "mows",
+    "ing": "mowing",
+    "cefr": ""
+  },
+  {
+    "stem": "multiply",
+    "past": "multiplied",
+    "past participle": "multiplied",
+    "3 SG": "multiplies",
+    "ing": "multiplying",
+    "cefr": "B2"
+  },
+  {
+    "stem": "murmur",
+    "past": "murmured",
+    "past participle": "murmured",
+    "3 SG": "murmurs",
+    "ing": "murmuring",
+    "cefr": "B2"
+  },
+  {
+    "stem": "nail",
+    "past": "nailed",
+    "past participle": "nailed",
+    "3 SG": "nails",
+    "ing": "nailing",
+    "cefr": "B1"
+  },
+  {
+    "stem": "nap",
+    "past": "napped",
+    "past participle": "napped",
+    "3 SG": "naps",
+    "ing": "napping",
+    "cefr": "B1"
+  },
+  {
+    "stem": "need",
+    "past": "needed",
+    "past participle": "needed",
+    "3 SG": "needs",
+    "ing": "needing",
+    "cefr": "B2"
+  },
+  {
+    "stem": "neglect",
+    "past": "neglected",
+    "past participle": "neglected",
+    "3 SG": "neglects",
+    "ing": "neglecting",
+    "cefr": "B2"
+  },
+  {
+    "stem": "nip",
+    "past": "nipped",
+    "past participle": "nipped",
+    "3 SG": "nips",
+    "ing": "nipping",
+    "cefr": ""
+  },
+  {
+    "stem": "nod",
+    "past": "nodded",
+    "past participle": "nodded",
+    "3 SG": "nods",
+    "ing": "nodding",
+    "cefr": "B2"
+  },
+  {
+    "stem": "note",
+    "past": "noted",
+    "past participle": "noted",
+    "3 SG": "notes",
+    "ing": "noting",
+    "cefr": "A1"
+  },
+  {
+    "stem": "notice",
+    "past": "noticed",
+    "past participle": "noticed",
+    "3 SG": "notices",
+    "ing": "noticing",
+    "cefr": "B1"
+  },
+  {
+    "stem": "notify",
+    "past": "notified",
+    "past participle": "notified",
+    "3 SG": "notifies",
+    "ing": "notifying",
+    "cefr": ""
+  },
+  {
+    "stem": "nourish",
+    "past": "nourished",
+    "past participle": "nourished",
+    "3 SG": "nourishes",
+    "ing": "nourishing",
+    "cefr": "B2"
+  },
+  {
+    "stem": "nurse",
+    "past": "nursed",
+    "past participle": "nursed",
+    "3 SG": "nurses",
+    "ing": "nursing",
+    "cefr": "B1"
+  },
+  {
+    "stem": "obey",
+    "past": "obeyed",
+    "past participle": "obeyed",
+    "3 SG": "obeys",
+    "ing": "obeying",
+    "cefr": "B2"
+  },
+  {
+    "stem": "oblige",
+    "past": "obliged",
+    "past participle": "obliged",
+    "3 SG": "obliges",
+    "ing": "obliging",
+    "cefr": ""
+  },
+  {
+    "stem": "observe",
+    "past": "observed",
+    "past participle": "observed",
+    "3 SG": "observes",
+    "ing": "observing",
+    "cefr": "B1"
+  },
+  {
+    "stem": "obstruct",
+    "past": "obstructed",
+    "past participle": "obstructed",
+    "3 SG": "obstructs",
+    "ing": "obstructing",
+    "cefr": ""
+  },
+  {
+    "stem": "obtain",
+    "past": "obtained",
+    "past participle": "obtained",
+    "3 SG": "obtains",
+    "ing": "obtaining",
+    "cefr": "B1"
+  },
+  {
+    "stem": "occupy",
+    "past": "occupied",
+    "past participle": "occupied",
+    "3 SG": "occupies",
+    "ing": "occupying",
+    "cefr": "B1"
+  },
+  {
+    "stem": "occur",
+    "past": "occurred",
+    "past participle": "occurred",
+    "3 SG": "occurs",
+    "ing": "occurring",
+    "cefr": "B1"
+  },
+  {
+    "stem": "offer",
+    "past": "offered",
+    "past participle": "offered",
+    "3 SG": "offers",
+    "ing": "offering",
+    "cefr": "A2"
+  },
+  {
+    "stem": "offset",
+    "past": "offset",
+    "past participle": "offset",
+    "3 SG": "offsets",
+    "ing": "offsetting",
+    "cefr": ""
+  },
+  {
+    "stem": "omit",
+    "past": "omitted",
+    "past participle": "omitted",
+    "3 SG": "omits",
+    "ing": "omitting",
+    "cefr": ""
+  },
+  {
+    "stem": "ooze",
+    "past": "oozed",
+    "past participle": "oozed",
+    "3 SG": "oozes",
+    "ing": "oozing",
+    "cefr": ""
+  },
+  {
+    "stem": "open",
+    "past": "opened",
+    "past participle": "opened",
+    "3 SG": "opens",
+    "ing": "opening",
+    "cefr": "A1"
+  },
+  {
+    "stem": "operate",
+    "past": "operated",
+    "past participle": "operated",
+    "3 SG": "operates",
+    "ing": "operating",
+    "cefr": "A2"
+  },
+  {
+    "stem": "opine",
+    "past": "opined",
+    "past participle": "opined",
+    "3 SG": "opines",
+    "ing": "opining",
+    "cefr": ""
+  },
+  {
+    "stem": "oppress",
+    "past": "oppressed",
+    "past participle": "oppressed",
+    "3 SG": "oppresses",
+    "ing": "oppressing",
+    "cefr": "B1"
+  },
+  {
+    "stem": "opt",
+    "past": "opted",
+    "past participle": "opted",
+    "3 SG": "opts",
+    "ing": "opting",
+    "cefr": ""
+  },
+  {
+    "stem": "optimize",
+    "past": "optimized",
+    "past participle": "optimized",
+    "3 SG": "optimizes",
+    "ing": "optimizing",
+    "cefr": ""
+  },
+  {
+    "stem": "order",
+    "past": "ordered",
+    "past participle": "ordered",
+    "3 SG": "orders",
+    "ing": "ordering",
+    "cefr": "A2"
+  },
+  {
+    "stem": "organize",
+    "past": "organized",
+    "past participle": "organized",
+    "3 SG": "organizes",
+    "ing": "organizing",
+    "cefr": ""
+  },
+  {
+    "stem": "originate",
+    "past": "originated",
+    "past participle": "originated",
+    "3 SG": "originates",
+    "ing": "originating",
+    "cefr": "B2"
+  },
+  {
+    "stem": "output",
+    "past": "output",
+    "past participle": "output",
+    "3 SG": "outputs",
+    "ing": "outputting",
+    "cefr": "B2"
+  },
+  {
+    "stem": "overflow",
+    "past": "overflowed",
+    "past participle": "overflowed",
+    "3 SG": "overflows",
+    "ing": "overflowing",
+    "cefr": ""
+  },
+  {
+    "stem": "overtake",
+    "past": "overtook",
+    "past participle": "overtaken",
+    "3 SG": "overtakes",
+    "ing": "overtaking",
+    "cefr": "B2"
+  },
+  {
+    "stem": "owe",
+    "past": "owed",
+    "past participle": "owed",
+    "3 SG": "owes",
+    "ing": "owing",
+    "cefr": "B1"
+  },
+  {
+    "stem": "own",
+    "past": "owned",
+    "past participle": "owned",
+    "3 SG": "owns",
+    "ing": "owning",
+    "cefr": "A2"
+  },
+  {
+    "stem": "pacify",
+    "past": "pacified",
+    "past participle": "pacified",
+    "3 SG": "pacifies",
+    "ing": "pacifying",
+    "cefr": ""
+  },
+  {
+    "stem": "paint",
+    "past": "painted",
+    "past participle": "painted",
+    "3 SG": "paints",
+    "ing": "painting",
+    "cefr": "A1"
+  },
+  {
+    "stem": "pardon",
+    "past": "pardoned",
+    "past participle": "pardoned",
+    "3 SG": "pardons",
+    "ing": "pardoning",
+    "cefr": "B1"
+  },
+  {
+    "stem": "part",
+    "past": "parted",
+    "past participle": "parted",
+    "3 SG": "parts",
+    "ing": "parting",
+    "cefr": "B2"
+  },
+  {
+    "stem": "partake",
+    "past": "partook",
+    "past participle": "partaken",
+    "3 SG": "partakes",
+    "ing": "partaking",
+    "cefr": ""
+  },
+  {
+    "stem": "participate",
+    "past": "participated",
+    "past participle": "participated",
+    "3 SG": "participates",
+    "ing": "participating",
+    "cefr": "B1"
+  },
+  {
+    "stem": "pass",
+    "past": "passed",
+    "past participle": "passed",
+    "3 SG": "passes",
+    "ing": "passing",
+    "cefr": "A2"
+  },
+  {
+    "stem": "paste",
+    "past": "pasted",
+    "past participle": "pasted",
+    "3 SG": "pastes",
+    "ing": "pasting",
+    "cefr": ""
+  },
+  {
+    "stem": "pat",
+    "past": "patted",
+    "past participle": "patted",
+    "3 SG": "pats",
+    "ing": "patting",
+    "cefr": ""
+  },
+  {
+    "stem": "patch",
+    "past": "patched",
+    "past participle": "patched",
+    "3 SG": "patches",
+    "ing": "patching",
+    "cefr": "B2"
+  },
+  {
+    "stem": "pause",
+    "past": "paused",
+    "past participle": "paused",
+    "3 SG": "pauses",
+    "ing": "pausing",
+    "cefr": "B1"
+  },
+  {
+    "stem": "pay",
+    "past": "paid",
+    "past participle": "paid",
+    "3 SG": "pays",
+    "ing": "paying",
+    "cefr": "A1"
+  },
+  {
+    "stem": "peep",
+    "past": "peeped",
+    "past participle": "peeped",
+    "3 SG": "peeps",
+    "ing": "peeping",
+    "cefr": "B2"
+  },
+  {
+    "stem": "perish",
+    "past": "perished",
+    "past participle": "perished",
+    "3 SG": "perishes",
+    "ing": "perishing",
+    "cefr": ""
+  },
+  {
+    "stem": "permit",
+    "past": "permitted",
+    "past participle": "permitted",
+    "3 SG": "permits",
+    "ing": "permitting",
+    "cefr": "B1"
+  },
+  {
+    "stem": "persuade",
+    "past": "persuaded",
+    "past participle": "persuaded",
+    "3 SG": "persuades",
+    "ing": "persuading",
+    "cefr": "B1"
+  },
+  {
+    "stem": "phone",
+    "past": "phoned",
+    "past participle": "phoned",
+    "3 SG": "phones",
+    "ing": "phoning",
+    "cefr": "A1"
+  },
+  {
+    "stem": "place",
+    "past": "placed",
+    "past participle": "placed",
+    "3 SG": "places",
+    "ing": "placing",
+    "cefr": "B1"
+  },
+  {
+    "stem": "plan",
+    "past": "planned",
+    "past participle": "planned",
+    "3 SG": "plans",
+    "ing": "planning",
+    "cefr": "B1"
+  },
+  {
+    "stem": "play",
+    "past": "played",
+    "past participle": "played",
+    "3 SG": "plays",
+    "ing": "playing",
+    "cefr": "A1"
+  },
+  {
+    "stem": "plead",
+    "past": "pled",
+    "past participle": "pled",
+    "3 SG": "pleads",
+    "ing": "pleading",
+    "cefr": "B2"
+  },
+  {
+    "stem": "please",
+    "past": "pleased",
+    "past participle": "pleased",
+    "3 SG": "pleases",
+    "ing": "pleasing",
+    "cefr": "B1"
+  },
+  {
+    "stem": "plod",
+    "past": "plodded",
+    "past participle": "plodded",
+    "3 SG": "plods",
+    "ing": "plodding",
+    "cefr": ""
+  },
+  {
+    "stem": "plot",
+    "past": "plotted",
+    "past participle": "plotted",
+    "3 SG": "plots",
+    "ing": "plotting",
+    "cefr": "B2"
+  },
+  {
+    "stem": "pluck",
+    "past": "plucked",
+    "past participle": "plucked",
+    "3 SG": "plucks",
+    "ing": "plucking",
+    "cefr": "B2"
+  },
+  {
+    "stem": "ply",
+    "past": "plied",
+    "past participle": "plied",
+    "3 SG": "plies",
+    "ing": "plying",
+    "cefr": ""
+  },
+  {
+    "stem": "point",
+    "past": "pointed",
+    "past participle": "pointed",
+    "3 SG": "points",
+    "ing": "pointing",
+    "cefr": "A2"
+  },
+  {
+    "stem": "polish",
+    "past": "polished",
+    "past participle": "polished",
+    "3 SG": "polishes",
+    "ing": "polishing",
+    "cefr": "B2"
+  },
+  {
+    "stem": "pollute",
+    "past": "polluted",
+    "past participle": "polluted",
+    "3 SG": "pollutes",
+    "ing": "polluting",
+    "cefr": "A2"
+  },
+  {
+    "stem": "ponder",
+    "past": "pondered",
+    "past participle": "pondered",
+    "3 SG": "ponders",
+    "ing": "pondering",
+    "cefr": "B2"
+  },
+  {
+    "stem": "pour",
+    "past": "poured",
+    "past participle": "poured",
+    "3 SG": "pours",
+    "ing": "pouring",
+    "cefr": "A2"
+  },
+  {
+    "stem": "pout",
+    "past": "pouted",
+    "past participle": "pouted",
+    "3 SG": "pouts",
+    "ing": "pouting",
+    "cefr": ""
+  },
+  {
+    "stem": "practise",
+    "past": "practised",
+    "past participle": "practised",
+    "3 SG": "practises",
+    "ing": "practising",
+    "cefr": ""
+  },
+  {
+    "stem": "praise",
+    "past": "praised",
+    "past participle": "praised",
+    "3 SG": "praises",
+    "ing": "praising",
+    "cefr": "B2"
+  },
+  {
+    "stem": "pray",
+    "past": "prayed",
+    "past participle": "prayed",
+    "3 SG": "prays",
+    "ing": "praying",
+    "cefr": "A1"
+  },
+  {
+    "stem": "preach",
+    "past": "preached",
+    "past participle": "preached",
+    "3 SG": "preaches",
+    "ing": "preaching",
+    "cefr": ""
+  },
+  {
+    "stem": "prefer",
+    "past": "preferred",
+    "past participle": "preferred",
+    "3 SG": "prefers",
+    "ing": "preferring",
+    "cefr": "A2"
+  },
+  {
+    "stem": "prepare",
+    "past": "prepared",
+    "past participle": "prepared",
+    "3 SG": "prepares",
+    "ing": "preparing",
+    "cefr": "A2"
+  },
+  {
+    "stem": "prescribe",
+    "past": "prescribed",
+    "past participle": "prescribed",
+    "3 SG": "prescribes",
+    "ing": "prescribing",
+    "cefr": "B2"
+  },
+  {
+    "stem": "present",
+    "past": "presented",
+    "past participle": "presented",
+    "3 SG": "presents",
+    "ing": "presenting",
+    "cefr": "A1"
+  },
+  {
+    "stem": "preserve",
+    "past": "preserved",
+    "past participle": "preserved",
+    "3 SG": "preserves",
+    "ing": "preserving",
+    "cefr": "B1"
+  },
+  {
+    "stem": "preset",
+    "past": "preset",
+    "past participle": "preset",
+    "3 SG": "presets",
+    "ing": "presetting",
+    "cefr": ""
+  },
+  {
+    "stem": "preside",
+    "past": "presided",
+    "past participle": "presided",
+    "3 SG": "presides",
+    "ing": "presiding",
+    "cefr": ""
+  },
+  {
+    "stem": "press",
+    "past": "pressed",
+    "past participle": "pressed",
+    "3 SG": "presses",
+    "ing": "pressing",
+    "cefr": "B1"
+  },
+  {
+    "stem": "pretend",
+    "past": "pretended",
+    "past participle": "pretended",
+    "3 SG": "pretends",
+    "ing": "pretending",
+    "cefr": "A2"
+  },
+  {
+    "stem": "prevent",
+    "past": "prevented",
+    "past participle": "prevented",
+    "3 SG": "prevents",
+    "ing": "preventing",
+    "cefr": "A2"
+  },
+  {
+    "stem": "print",
+    "past": "printed",
+    "past participle": "printed",
+    "3 SG": "prints",
+    "ing": "printing",
+    "cefr": "A2"
+  },
+  {
+    "stem": "proceed",
+    "past": "proceeded",
+    "past participle": "proceeded",
+    "3 SG": "proceeds",
+    "ing": "proceeding",
+    "cefr": "B1"
+  },
+  {
+    "stem": "produce",
+    "past": "produced",
+    "past participle": "produced",
+    "3 SG": "produces",
+    "ing": "producing",
+    "cefr": "A2"
+  },
+  {
+    "stem": "progress",
+    "past": "progressed",
+    "past participle": "progressed",
+    "3 SG": "progresses",
+    "ing": "progressing",
+    "cefr": "B2"
+  },
+  {
+    "stem": "prohibit",
+    "past": "prohibited",
+    "past participle": "prohibited",
+    "3 SG": "prohibits",
+    "ing": "prohibiting",
+    "cefr": "B2"
+  },
+  {
+    "stem": "promise",
+    "past": "promised",
+    "past participle": "promised",
+    "3 SG": "promises",
+    "ing": "promising",
+    "cefr": "B1"
+  },
+  {
+    "stem": "propose",
+    "past": "proposed",
+    "past participle": "proposed",
+    "3 SG": "proposes",
+    "ing": "proposing",
+    "cefr": "B1"
+  },
+  {
+    "stem": "prosecute",
+    "past": "prosecuted",
+    "past participle": "prosecuted",
+    "3 SG": "prosecutes",
+    "ing": "prosecuting",
+    "cefr": "B2"
+  },
+  {
+    "stem": "protect",
+    "past": "protected",
+    "past participle": "protected",
+    "3 SG": "protects",
+    "ing": "protecting",
+    "cefr": "B1"
+  },
+  {
+    "stem": "prove",
+    "past": "proved",
+    "past participle": "proved",
+    "3 SG": "proves",
+    "ing": "proving",
+    "cefr": "B1"
+  },
+  {
+    "stem": "provide",
+    "past": "provided",
+    "past participle": "provided",
+    "3 SG": "provides",
+    "ing": "providing",
+    "cefr": "A2"
+  },
+  {
+    "stem": "pull",
+    "past": "pulled",
+    "past participle": "pulled",
+    "3 SG": "pulls",
+    "ing": "pulling",
+    "cefr": "A2"
+  },
+  {
+    "stem": "punish",
+    "past": "punished",
+    "past participle": "punished",
+    "3 SG": "punishes",
+    "ing": "punishing",
+    "cefr": "B1"
+  },
+  {
+    "stem": "purify",
+    "past": "purified",
+    "past participle": "purified",
+    "3 SG": "purifies",
+    "ing": "purifying",
+    "cefr": "B1"
+  },
+  {
+    "stem": "push",
+    "past": "pushed",
+    "past participle": "pushed",
+    "3 SG": "pushes",
+    "ing": "pushing",
+    "cefr": "A1"
+  },
+  {
+    "stem": "put",
+    "past": "put",
+    "past participle": "put",
+    "3 SG": "puts",
+    "ing": "putting",
+    "cefr": "A1"
+  },
+  {
+    "stem": "qualify",
+    "past": "qualified",
+    "past participle": "qualified",
+    "3 SG": "qualifies",
+    "ing": "qualifying",
+    "cefr": "B1"
+  },
+  {
+    "stem": "quarrel",
+    "past": "quarrelled",
+    "past participle": "quarrelled",
+    "3 SG": "quarrels",
+    "ing": "quarrelling",
+    "cefr": "B2"
+  },
+  {
+    "stem": "question",
+    "past": "questioned",
+    "past participle": "questioned",
+    "3 SG": "questions",
+    "ing": "questioning",
+    "cefr": "B2"
+  },
+  {
+    "stem": "quit",
+    "past": "quit",
+    "past participle": "quit",
+    "3 SG": "quits",
+    "ing": "quitting",
+    "cefr": "A2"
+  },
+  {
+    "stem": "race",
+    "past": "raced",
+    "past participle": "raced",
+    "3 SG": "races",
+    "ing": "racing",
+    "cefr": "B1"
+  },
+  {
+    "stem": "rain",
+    "past": "rained",
+    "past participle": "rained",
+    "3 SG": "rains",
+    "ing": "raining",
+    "cefr": "A1"
+  },
+  {
+    "stem": "rattle",
+    "past": "rattled",
+    "past participle": "rattled",
+    "3 SG": "rattles",
+    "ing": "rattling",
+    "cefr": "B2"
+  },
+  {
+    "stem": "reach",
+    "past": "reached",
+    "past participle": "reached",
+    "3 SG": "reaches",
+    "ing": "reaching",
+    "cefr": "A2"
+  },
+  {
+    "stem": "read",
+    "past": "read",
+    "past participle": "read",
+    "3 SG": "reads",
+    "ing": "reading",
+    "cefr": "A1"
+  },
+  {
+    "stem": "realize",
+    "past": "realized",
+    "past participle": "realized",
+    "3 SG": "realizes",
+    "ing": "realizing",
+    "cefr": ""
+  },
+  {
+    "stem": "rebuild",
+    "past": "rebuilt",
+    "past participle": "rebuilt",
+    "3 SG": "rebuilds",
+    "ing": "rebuilding",
+    "cefr": "B1"
+  },
+  {
+    "stem": "recall",
+    "past": "recalled",
+    "past participle": "recalled",
+    "3 SG": "recalls",
+    "ing": "recalling",
+    "cefr": "B1"
+  },
+  {
+    "stem": "recast",
+    "past": "recast",
+    "past participle": "recast",
+    "3 SG": "recasts",
+    "ing": "recasting",
+    "cefr": ""
+  },
+  {
+    "stem": "receive",
+    "past": "received",
+    "past participle": "received",
+    "3 SG": "receives",
+    "ing": "receiving",
+    "cefr": "A2"
+  },
+  {
+    "stem": "recite",
+    "past": "recited",
+    "past participle": "recited",
+    "3 SG": "recites",
+    "ing": "reciting",
+    "cefr": "B1"
+  },
+  {
+    "stem": "recognize",
+    "past": "recognized",
+    "past participle": "recognized",
+    "3 SG": "recognizes",
+    "ing": "recognizing",
+    "cefr": ""
+  },
+  {
+    "stem": "recollect",
+    "past": "recollected",
+    "past participle": "recollected",
+    "3 SG": "recollects",
+    "ing": "recollecting",
+    "cefr": "B2"
+  },
+  {
+    "stem": "recur",
+    "past": "recurred",
+    "past participle": "recurred",
+    "3 SG": "recurs",
+    "ing": "recurring",
+    "cefr": ""
+  },
+  {
+    "stem": "redo",
+    "past": "redid",
+    "past participle": "redone",
+    "3 SG": "redoes",
+    "ing": "redoing",
+    "cefr": "B2"
+  },
+  {
+    "stem": "reduce",
+    "past": "reduced",
+    "past participle": "reduced",
+    "3 SG": "reduces",
+    "ing": "reducing",
+    "cefr": "B1"
+  },
+  {
+    "stem": "refer",
+    "past": "referred",
+    "past participle": "referred",
+    "3 SG": "refers",
+    "ing": "referring",
+    "cefr": "A2"
+  },
+  {
+    "stem": "reflect",
+    "past": "reflected",
+    "past participle": "reflected",
+    "3 SG": "reflects",
+    "ing": "reflecting",
+    "cefr": "A2"
+  },
+  {
+    "stem": "refuse",
+    "past": "refused",
+    "past participle": "refused",
+    "3 SG": "refuses",
+    "ing": "refusing",
+    "cefr": "B1"
+  },
+  {
+    "stem": "regard",
+    "past": "regarded",
+    "past participle": "regarded",
+    "3 SG": "regards",
+    "ing": "regarding",
+    "cefr": "B1"
+  },
+  {
+    "stem": "regret",
+    "past": "regretted",
+    "past participle": "regretted",
+    "3 SG": "regrets",
+    "ing": "regretting",
+    "cefr": "A2"
+  },
+  {
+    "stem": "relate",
+    "past": "related",
+    "past participle": "related",
+    "3 SG": "relates",
+    "ing": "relating",
+    "cefr": "B1"
+  },
+  {
+    "stem": "relax",
+    "past": "relaxed",
+    "past participle": "relaxed",
+    "3 SG": "relaxes",
+    "ing": "relaxing",
+    "cefr": "A2"
+  },
+  {
+    "stem": "rely",
+    "past": "relied",
+    "past participle": "relied",
+    "3 SG": "relies",
+    "ing": "relying",
+    "cefr": "B1"
+  },
+  {
+    "stem": "remain",
+    "past": "remained",
+    "past participle": "remained",
+    "3 SG": "remains",
+    "ing": "remaining",
+    "cefr": "A2"
+  },
+  {
+    "stem": "remake",
+    "past": "remade",
+    "past participle": "remade",
+    "3 SG": "remakes",
+    "ing": "remaking",
+    "cefr": ""
+  },
+  {
+    "stem": "remove",
+    "past": "removed",
+    "past participle": "removed",
+    "3 SG": "removes",
+    "ing": "removing",
+    "cefr": "B1"
+  },
+  {
+    "stem": "rend",
+    "past": "rent",
+    "past participle": "rent",
+    "3 SG": "rends",
+    "ing": "rending",
+    "cefr": ""
+  },
+  {
+    "stem": "renew",
+    "past": "renewed",
+    "past participle": "renewed",
+    "3 SG": "renews",
+    "ing": "renewing",
+    "cefr": "B1"
+  },
+  {
+    "stem": "renounce",
+    "past": "renounced",
+    "past participle": "renounced",
+    "3 SG": "renounces",
+    "ing": "renouncing",
+    "cefr": ""
+  },
+  {
+    "stem": "repair",
+    "past": "repaired",
+    "past participle": "repaired",
+    "3 SG": "repairs",
+    "ing": "repairing",
+    "cefr": "A2"
+  },
+  {
+    "stem": "repeat",
+    "past": "repeated",
+    "past participle": "repeated",
+    "3 SG": "repeats",
+    "ing": "repeating",
+    "cefr": "A1"
+  },
+  {
+    "stem": "replace",
+    "past": "replaced",
+    "past participle": "replaced",
+    "3 SG": "replaces",
+    "ing": "replacing",
+    "cefr": "A2"
+  },
+  {
+    "stem": "reply",
+    "past": "replied",
+    "past participle": "replied",
+    "3 SG": "replies",
+    "ing": "replying",
+    "cefr": "B1"
+  },
+  {
+    "stem": "report",
+    "past": "reported",
+    "past participle": "reported",
+    "3 SG": "reports",
+    "ing": "reporting",
+    "cefr": "B1"
+  },
+  {
+    "stem": "request",
+    "past": "requested",
+    "past participle": "requested",
+    "3 SG": "requests",
+    "ing": "requesting",
+    "cefr": "B1"
+  },
+  {
+    "stem": "resell",
+    "past": "resold",
+    "past participle": "resold",
+    "3 SG": "resells",
+    "ing": "reselling",
+    "cefr": ""
+  },
+  {
+    "stem": "resemble",
+    "past": "resembled",
+    "past participle": "resembled",
+    "3 SG": "resembles",
+    "ing": "resembling",
+    "cefr": "B1"
+  },
+  {
+    "stem": "reset",
+    "past": "reset",
+    "past participle": "reset",
+    "3 SG": "resets",
+    "ing": "resetting",
+    "cefr": ""
+  },
+  {
+    "stem": "resist",
+    "past": "resisted",
+    "past participle": "resisted",
+    "3 SG": "resists",
+    "ing": "resisting",
+    "cefr": "B1"
+  },
+  {
+    "stem": "resolve",
+    "past": "resolved",
+    "past participle": "resolved",
+    "3 SG": "resolves",
+    "ing": "resolving",
+    "cefr": "B1"
+  },
+  {
+    "stem": "respect",
+    "past": "respected",
+    "past participle": "respected",
+    "3 SG": "respects",
+    "ing": "respecting",
+    "cefr": "B1"
+  },
+  {
+    "stem": "rest",
+    "past": "rested",
+    "past participle": "rested",
+    "3 SG": "rests",
+    "ing": "resting",
+    "cefr": "B1"
+  },
+  {
+    "stem": "restrain",
+    "past": "restrained",
+    "past participle": "restrained",
+    "3 SG": "restrains",
+    "ing": "restraining",
+    "cefr": ""
+  },
+  {
+    "stem": "retain",
+    "past": "retained",
+    "past participle": "retained",
+    "3 SG": "retains",
+    "ing": "retaining",
+    "cefr": "B1"
+  },
+  {
+    "stem": "retch",
+    "past": "retched",
+    "past participle": "retched",
+    "3 SG": "retches",
+    "ing": "retching",
+    "cefr": ""
+  },
+  {
+    "stem": "retire",
+    "past": "retired",
+    "past participle": "retired",
+    "3 SG": "retires",
+    "ing": "retiring",
+    "cefr": "A2"
+  },
+  {
+    "stem": "return",
+    "past": "returned",
+    "past participle": "returned",
+    "3 SG": "returns",
+    "ing": "returning",
+    "cefr": "A2"
+  },
+  {
+    "stem": "reuse",
+    "past": "reused",
+    "past participle": "reused",
+    "3 SG": "reuses",
+    "ing": "reusing",
+    "cefr": ""
+  },
+  {
+    "stem": "review",
+    "past": "reviewed",
+    "past participle": "reviewed",
+    "3 SG": "reviews",
+    "ing": "reviewing",
+    "cefr": "B2"
+  },
+  {
+    "stem": "rewind",
+    "past": "rewound",
+    "past participle": "rewound",
+    "3 SG": "rewinds",
+    "ing": "rewinding",
+    "cefr": ""
+  },
+  {
+    "stem": "rid",
+    "past": "rid",
+    "past participle": "rid",
+    "3 SG": "rids",
+    "ing": "ridding",
+    "cefr": "B1"
+  },
+  {
+    "stem": "ride",
+    "past": "rode",
+    "past participle": "ridden",
+    "3 SG": "rides",
+    "ing": "riding",
+    "cefr": "A1"
+  },
+  {
+    "stem": "ring",
+    "past": "rang",
+    "past participle": "rung",
+    "3 SG": "rings",
+    "ing": "ringing",
+    "cefr": "A1"
+  },
+  {
+    "stem": "rise",
+    "past": "rose",
+    "past participle": "risen",
+    "3 SG": "rises",
+    "ing": "rising",
+    "cefr": "B1"
+  },
+  {
+    "stem": "roar",
+    "past": "roared",
+    "past participle": "roared",
+    "3 SG": "roars",
+    "ing": "roaring",
+    "cefr": "B2"
+  },
+  {
+    "stem": "rob",
+    "past": "robbed",
+    "past participle": "robbed",
+    "3 SG": "robs",
+    "ing": "robbing",
+    "cefr": "A2"
+  },
+  {
+    "stem": "roll",
+    "past": "rolled",
+    "past participle": "rolled",
+    "3 SG": "rolls",
+    "ing": "rolling",
+    "cefr": "B2"
+  },
+  {
+    "stem": "rot",
+    "past": "rotted",
+    "past participle": "rotted",
+    "3 SG": "rots",
+    "ing": "rotting",
+    "cefr": ""
+  },
+  {
+    "stem": "rub",
+    "past": "rubbed",
+    "past participle": "rubbed",
+    "3 SG": "rubs",
+    "ing": "rubbing",
+    "cefr": "B2"
+  },
+  {
+    "stem": "rule",
+    "past": "ruled",
+    "past participle": "ruled",
+    "3 SG": "rules",
+    "ing": "ruling",
+    "cefr": "B2"
+  },
+  {
+    "stem": "run",
+    "past": "ran",
+    "past participle": "run",
+    "3 SG": "runs",
+    "ing": "running",
+    "cefr": "A1"
+  },
+  {
+    "stem": "rush",
+    "past": "rushed",
+    "past participle": "rushed",
+    "3 SG": "rushes",
+    "ing": "rushing",
+    "cefr": "B1"
+  },
+  {
+    "stem": "sabotage",
+    "past": "sabotaged",
+    "past participle": "sabotaged",
+    "3 SG": "sabotages",
+    "ing": "sabotaging",
+    "cefr": ""
+  },
+  {
+    "stem": "sack",
+    "past": "sacked",
+    "past participle": "sacked",
+    "3 SG": "sacks",
+    "ing": "sacking",
+    "cefr": "B2"
+  },
+  {
+    "stem": "sacrifice",
+    "past": "sacrificed",
+    "past participle": "sacrificed",
+    "3 SG": "sacrifices",
+    "ing": "sacrificing",
+    "cefr": ""
+  },
+  {
+    "stem": "sadden",
+    "past": "saddened",
+    "past participle": "saddened",
+    "3 SG": "saddens",
+    "ing": "saddening",
+    "cefr": ""
+  },
+  {
+    "stem": "saddle",
+    "past": "saddled",
+    "past participle": "saddled",
+    "3 SG": "saddles",
+    "ing": "saddling",
+    "cefr": ""
+  },
+  {
+    "stem": "sag",
+    "past": "sagged",
+    "past participle": "sagged",
+    "3 SG": "sags",
+    "ing": "sagging",
+    "cefr": "B2"
+  },
+  {
+    "stem": "sail",
+    "past": "sailed",
+    "past participle": "sailed",
+    "3 SG": "sails",
+    "ing": "sailing",
+    "cefr": "B2"
+  },
+  {
+    "stem": "sally",
+    "past": "sallied",
+    "past participle": "sallied",
+    "3 SG": "sallies",
+    "ing": "sallying",
+    "cefr": ""
+  },
+  {
+    "stem": "salute",
+    "past": "saluted",
+    "past participle": "saluted",
+    "3 SG": "salutes",
+    "ing": "saluting",
+    "cefr": ""
+  },
+  {
+    "stem": "salvage",
+    "past": "salvaged",
+    "past participle": "salvaged",
+    "3 SG": "salvages",
+    "ing": "salvaging",
+    "cefr": ""
+  },
+  {
+    "stem": "salve",
+    "past": "salved",
+    "past participle": "salved",
+    "3 SG": "salves",
+    "ing": "salving",
+    "cefr": ""
+  },
+  {
+    "stem": "sample",
+    "past": "sampled",
+    "past participle": "sampled",
+    "3 SG": "samples",
+    "ing": "sampling",
+    "cefr": "A2"
+  },
+  {
+    "stem": "sanctify",
+    "past": "sanctified",
+    "past participle": "sanctified",
+    "3 SG": "sanctifies",
+    "ing": "sanctifying",
+    "cefr": ""
+  },
+  {
+    "stem": "sanction",
+    "past": "sanctioned",
+    "past participle": "sanctioned",
+    "3 SG": "sanctions",
+    "ing": "sanctioning",
+    "cefr": ""
+  },
+  {
+    "stem": "sap",
+    "past": "sapped",
+    "past participle": "sapped",
+    "3 SG": "saps",
+    "ing": "sapping",
+    "cefr": ""
+  },
+  {
+    "stem": "saponify",
+    "past": "saponified",
+    "past participle": "saponified",
+    "3 SG": "saponifies",
+    "ing": "saponifying",
+    "cefr": ""
+  },
+  {
+    "stem": "sash",
+    "past": "sashed",
+    "past participle": "sashed",
+    "3 SG": "sashes",
+    "ing": "sashing",
+    "cefr": ""
+  },
+  {
+    "stem": "sashay",
+    "past": "sashayed",
+    "past participle": "sashayed",
+    "3 SG": "sashays",
+    "ing": "sashaying",
+    "cefr": ""
+  },
+  {
+    "stem": "sass",
+    "past": "sassed",
+    "past participle": "sassed",
+    "3 SG": "sasses",
+    "ing": "sassing",
+    "cefr": ""
+  },
+  {
+    "stem": "sate",
+    "past": "sated",
+    "past participle": "sated",
+    "3 SG": "sates",
+    "ing": "sating",
+    "cefr": ""
+  },
+  {
+    "stem": "satiate",
+    "past": "satiated",
+    "past participle": "satiated",
+    "3 SG": "satiates",
+    "ing": "satiating",
+    "cefr": ""
+  },
+  {
+    "stem": "satirise",
+    "past": "satirised",
+    "past participle": "satirised",
+    "3 SG": "satirises",
+    "ing": "satirising",
+    "cefr": ""
+  },
+  {
+    "stem": "satisfy",
+    "past": "satisfied",
+    "past participle": "satisfied",
+    "3 SG": "satisfies",
+    "ing": "satisfying",
+    "cefr": "A2"
+  },
+  {
+    "stem": "saturate",
+    "past": "saturated",
+    "past participle": "saturated",
+    "3 SG": "saturates",
+    "ing": "saturating",
+    "cefr": ""
+  },
+  {
+    "stem": "saunter",
+    "past": "sauntered",
+    "past participle": "sauntered",
+    "3 SG": "saunters",
+    "ing": "sauntering",
+    "cefr": ""
+  },
+  {
+    "stem": "save",
+    "past": "saved",
+    "past participle": "saved",
+    "3 SG": "saves",
+    "ing": "saving",
+    "cefr": "A1"
+  },
+  {
+    "stem": "savor",
+    "past": "savored",
+    "past participle": "savored",
+    "3 SG": "savors",
+    "ing": "savoring",
+    "cefr": ""
+  },
+  {
+    "stem": "savvy",
+    "past": "savvied",
+    "past participle": "savvied",
+    "3 SG": "savvies",
+    "ing": "savvying",
+    "cefr": ""
+  },
+  {
+    "stem": "saw",
+    "past": "sawed",
+    "past participle": "sawn",
+    "3 SG": "saws",
+    "ing": "sawing",
+    "cefr": "B2"
+  },
+  {
+    "stem": "say",
+    "past": "said",
+    "past participle": "said",
+    "3 SG": "says",
+    "ing": "saying",
+    "cefr": "A1"
+  },
+  {
+    "stem": "scab",
+    "past": "scabbed",
+    "past participle": "scabbed",
+    "3 SG": "scabs",
+    "ing": "scabbing",
+    "cefr": ""
+  },
+  {
+    "stem": "scabble",
+    "past": "scabbled",
+    "past participle": "scabbled",
+    "3 SG": "scabbles",
+    "ing": "scabbling",
+    "cefr": ""
+  },
+  {
+    "stem": "scald",
+    "past": "scalded",
+    "past participle": "scalded",
+    "3 SG": "scalds",
+    "ing": "scalding",
+    "cefr": ""
+  },
+  {
+    "stem": "scale",
+    "past": "scaled",
+    "past participle": "scaled",
+    "3 SG": "scales",
+    "ing": "scaling",
+    "cefr": "A2"
+  },
+  {
+    "stem": "scam",
+    "past": "scammed",
+    "past participle": "scammed",
+    "3 SG": "scams",
+    "ing": "scamming",
+    "cefr": ""
+  },
+  {
+    "stem": "scan",
+    "past": "scanned",
+    "past participle": "scanned",
+    "3 SG": "scans",
+    "ing": "scanning",
+    "cefr": "B2"
+  },
+  {
+    "stem": "scant",
+    "past": "scanted",
+    "past participle": "scanted",
+    "3 SG": "scants",
+    "ing": "scanting",
+    "cefr": ""
+  },
+  {
+    "stem": "scar",
+    "past": "scarred",
+    "past participle": "scarred",
+    "3 SG": "scars",
+    "ing": "scarring",
+    "cefr": "B2"
+  },
+  {
+    "stem": "scare",
+    "past": "scared",
+    "past participle": "scared",
+    "3 SG": "scares",
+    "ing": "scaring",
+    "cefr": "B1"
+  },
+  {
+    "stem": "scarify",
+    "past": "scarified",
+    "past participle": "scarified",
+    "3 SG": "scarifies",
+    "ing": "scarifying",
+    "cefr": ""
+  },
+  {
+    "stem": "scarp",
+    "past": "scarped",
+    "past participle": "scarped",
+    "3 SG": "scarps",
+    "ing": "scarping",
+    "cefr": ""
+  },
+  {
+    "stem": "scat",
+    "past": "scatted",
+    "past participle": "scatted",
+    "3 SG": "scats",
+    "ing": "scatting",
+    "cefr": ""
+  },
+  {
+    "stem": "scatter",
+    "past": "scattered",
+    "past participle": "scattered",
+    "3 SG": "scatters",
+    "ing": "scattering",
+    "cefr": "B1"
+  },
+  {
+    "stem": "scold",
+    "past": "scolded",
+    "past participle": "scolded",
+    "3 SG": "scolds",
+    "ing": "scolding",
+    "cefr": "B1"
+  },
+  {
+    "stem": "scorch",
+    "past": "scorched",
+    "past participle": "scorched",
+    "3 SG": "scorches",
+    "ing": "scorching",
+    "cefr": ""
+  },
+  {
+    "stem": "scowl",
+    "past": "scowled",
+    "past participle": "scowled",
+    "3 SG": "scowls",
+    "ing": "scowling",
+    "cefr": ""
+  },
+  {
+    "stem": "scrawl",
+    "past": "scrawled",
+    "past participle": "scrawled",
+    "3 SG": "scrawls",
+    "ing": "scrawling",
+    "cefr": ""
+  },
+  {
+    "stem": "scream",
+    "past": "screamed",
+    "past participle": "screamed",
+    "3 SG": "screams",
+    "ing": "screaming",
+    "cefr": "B1"
+  },
+  {
+    "stem": "screw",
+    "past": "screwed",
+    "past participle": "screwed",
+    "3 SG": "screws",
+    "ing": "screwing",
+    "cefr": "B2"
+  },
+  {
+    "stem": "scrub",
+    "past": "scrubbed",
+    "past participle": "scrubbed",
+    "3 SG": "scrubs",
+    "ing": "scrubbing",
+    "cefr": ""
+  },
+  {
+    "stem": "search",
+    "past": "searched",
+    "past participle": "searched",
+    "3 SG": "searches",
+    "ing": "searching",
+    "cefr": "B1"
+  },
+  {
+    "stem": "seat",
+    "past": "seated",
+    "past participle": "seated",
+    "3 SG": "seats",
+    "ing": "seating",
+    "cefr": "A1"
+  },
+  {
+    "stem": "secure",
+    "past": "secured",
+    "past participle": "secured",
+    "3 SG": "secures",
+    "ing": "securing",
+    "cefr": "B1"
+  },
+  {
+    "stem": "see",
+    "past": "saw",
+    "past participle": "seen",
+    "3 SG": "sees",
+    "ing": "seeing",
+    "cefr": "A1"
+  },
+  {
+    "stem": "seek",
+    "past": "sought",
+    "past participle": "sought",
+    "3 SG": "seeks",
+    "ing": "seeking",
+    "cefr": "A2"
+  },
+  {
+    "stem": "seem",
+    "past": "seemed",
+    "past participle": "seemed",
+    "3 SG": "seems",
+    "ing": "seeming",
+    "cefr": "A2"
+  },
+  {
+    "stem": "seize",
+    "past": "seized",
+    "past participle": "seized",
+    "3 SG": "seizes",
+    "ing": "seizing",
+    "cefr": "B1"
+  },
+  {
+    "stem": "select",
+    "past": "selected",
+    "past participle": "selected",
+    "3 SG": "selects",
+    "ing": "selecting",
+    "cefr": "B2"
+  },
+  {
+    "stem": "sell",
+    "past": "sold",
+    "past participle": "sold",
+    "3 SG": "sells",
+    "ing": "selling",
+    "cefr": "A1"
+  },
+  {
+    "stem": "send",
+    "past": "sent",
+    "past participle": "sent",
+    "3 SG": "sends",
+    "ing": "sending",
+    "cefr": "A2"
+  },
+  {
+    "stem": "sentence",
+    "past": "sentenced",
+    "past participle": "sentenced",
+    "3 SG": "sentences",
+    "ing": "sentencing",
+    "cefr": "B2"
+  },
+  {
+    "stem": "separate",
+    "past": "separated",
+    "past participle": "separated",
+    "3 SG": "separates",
+    "ing": "separating",
+    "cefr": "B2"
+  },
+  {
+    "stem": "set",
+    "past": "set",
+    "past participle": "set",
+    "3 SG": "sets",
+    "ing": "setting",
+    "cefr": "A1"
+  },
+  {
+    "stem": "sever",
+    "past": "severed",
+    "past participle": "severed",
+    "3 SG": "severs",
+    "ing": "severing",
+    "cefr": ""
+  },
+  {
+    "stem": "sew",
+    "past": "sewed",
+    "past participle": "sewn",
+    "3 SG": "sews",
+    "ing": "sewing",
+    "cefr": "A2"
+  },
+  {
+    "stem": "shake",
+    "past": "shook",
+    "past participle": "shaken",
+    "3 SG": "shakes",
+    "ing": "shaking",
+    "cefr": "B1"
+  },
+  {
+    "stem": "shape",
+    "past": "shaped",
+    "past participle": "shaped",
+    "3 SG": "shapes",
+    "ing": "shaping",
+    "cefr": "B1"
+  },
+  {
+    "stem": "share",
+    "past": "shared",
+    "past participle": "shared",
+    "3 SG": "shares",
+    "ing": "sharing",
+    "cefr": "A1"
+  },
+  {
+    "stem": "shatter",
+    "past": "shattered",
+    "past participle": "shattered",
+    "3 SG": "shatters",
+    "ing": "shattering",
+    "cefr": "B2"
+  },
+  {
+    "stem": "shave",
+    "past": "shove",
+    "past participle": "shaven",
+    "3 SG": "shaves",
+    "ing": "shaving",
+    "cefr": "B1"
+  },
+  {
+    "stem": "shear",
+    "past": "shore",
+    "past participle": "shorn",
+    "3 SG": "shears",
+    "ing": "shearing",
+    "cefr": ""
+  },
+  {
+    "stem": "shed",
+    "past": "shed",
+    "past participle": "shed",
+    "3 SG": "sheds",
+    "ing": "shedding",
+    "cefr": "B2"
+  },
+  {
+    "stem": "shine",
+    "past": "shone",
+    "past participle": "shone",
+    "3 SG": "shines",
+    "ing": "shining",
+    "cefr": "A2"
+  },
+  {
+    "stem": "shirk",
+    "past": "shirked",
+    "past participle": "shirked",
+    "3 SG": "shirks",
+    "ing": "shirking",
+    "cefr": ""
+  },
+  {
+    "stem": "shit",
+    "past": "shit",
+    "past participle": "shit",
+    "3 SG": "shits",
+    "ing": "shitting",
+    "cefr": ""
+  },
+  {
+    "stem": "shiver",
+    "past": "shivered",
+    "past participle": "shivered",
+    "3 SG": "shivers",
+    "ing": "shivering",
+    "cefr": "B1"
+  },
+  {
+    "stem": "shock",
+    "past": "shocked",
+    "past participle": "shocked",
+    "3 SG": "shocks",
+    "ing": "shocking",
+    "cefr": "B2"
+  },
+  {
+    "stem": "shoe",
+    "past": "shod",
+    "past participle": "shod",
+    "3 SG": "shoes",
+    "ing": "shoeing",
+    "cefr": "A1"
+  },
+  {
+    "stem": "shoot",
+    "past": "shot",
+    "past participle": "shot",
+    "3 SG": "shoots",
+    "ing": "shooting",
+    "cefr": "A2"
+  },
+  {
+    "stem": "shorten",
+    "past": "shortened",
+    "past participle": "shortened",
+    "3 SG": "shortens",
+    "ing": "shortening",
+    "cefr": ""
+  },
+  {
+    "stem": "shout",
+    "past": "shouted",
+    "past participle": "shouted",
+    "3 SG": "shouts",
+    "ing": "shouting",
+    "cefr": "B1"
+  },
+  {
+    "stem": "show",
+    "past": "showed",
+    "past participle": "shown",
+    "3 SG": "shows",
+    "ing": "showing",
+    "cefr": "A1"
+  },
+  {
+    "stem": "shrink",
+    "past": "shrank",
+    "past participle": "shrunk",
+    "3 SG": "shrinks",
+    "ing": "shrinking",
+    "cefr": "B2"
+  },
+  {
+    "stem": "shun",
+    "past": "shunned",
+    "past participle": "shunned",
+    "3 SG": "shuns",
+    "ing": "shunning",
+    "cefr": ""
+  },
+  {
+    "stem": "shut",
+    "past": "shut",
+    "past participle": "shut",
+    "3 SG": "shuts",
+    "ing": "shutting",
+    "cefr": "A2"
+  },
+  {
+    "stem": "sight",
+    "past": "sighted",
+    "past participle": "sighted",
+    "3 SG": "sights",
+    "ing": "sighting",
+    "cefr": "A1"
+  },
+  {
+    "stem": "signal",
+    "past": "signalled",
+    "past participle": "signalled",
+    "3 SG": "signals",
+    "ing": "signalling",
+    "cefr": "B1"
+  },
+  {
+    "stem": "signify",
+    "past": "signified",
+    "past participle": "signified",
+    "3 SG": "signifies",
+    "ing": "signifying",
+    "cefr": "B2"
+  },
+  {
+    "stem": "sing",
+    "past": "sang",
+    "past participle": "sung",
+    "3 SG": "sings",
+    "ing": "singing",
+    "cefr": "A1"
+  },
+  {
+    "stem": "sink",
+    "past": "sank",
+    "past participle": "sunk",
+    "3 SG": "sinks",
+    "ing": "sinking",
+    "cefr": "B1"
+  },
+  {
+    "stem": "sip",
+    "past": "sipped",
+    "past participle": "sipped",
+    "3 SG": "sips",
+    "ing": "sipping",
+    "cefr": ""
+  },
+  {
+    "stem": "sit",
+    "past": "sat",
+    "past participle": "sat",
+    "3 SG": "sits",
+    "ing": "sitting",
+    "cefr": "A1"
+  },
+  {
+    "stem": "ski",
+    "past": "skied",
+    "past participle": "skied",
+    "3 SG": "skis",
+    "ing": "skiing",
+    "cefr": "B1"
+  },
+  {
+    "stem": "skid",
+    "past": "skidded",
+    "past participle": "skidded",
+    "3 SG": "skids",
+    "ing": "skidding",
+    "cefr": ""
+  },
+  {
+    "stem": "slam",
+    "past": "slammed",
+    "past participle": "slammed",
+    "3 SG": "slams",
+    "ing": "slamming",
+    "cefr": "B2"
+  },
+  {
+    "stem": "slay",
+    "past": "slew",
+    "past participle": "slain",
+    "3 SG": "slays",
+    "ing": "slaying",
+    "cefr": ""
+  },
+  {
+    "stem": "sleep",
+    "past": "slept",
+    "past participle": "slept",
+    "3 SG": "sleeps",
+    "ing": "sleeping",
+    "cefr": "A1"
+  },
+  {
+    "stem": "slide",
+    "past": "slid",
+    "past participle": "slid/slide",
+    "3 SG": "slides",
+    "ing": "sliding",
+    "cefr": "B2"
+  },
+  {
+    "stem": "slim",
+    "past": "slimmed",
+    "past participle": "slimmed",
+    "3 SG": "slims",
+    "ing": "slimming",
+    "cefr": "A2"
+  },
+  {
+    "stem": "sling",
+    "past": "slung",
+    "past participle": "slung",
+    "3 SG": "slings",
+    "ing": "slinging",
+    "cefr": ""
+  },
+  {
+    "stem": "slink",
+    "past": "slunk",
+    "past participle": "slunk",
+    "3 SG": "slinks",
+    "ing": "slinking",
+    "cefr": ""
+  },
+  {
+    "stem": "slip",
+    "past": "slipped",
+    "past participle": "slipped",
+    "3 SG": "slips",
+    "ing": "slipping",
+    "cefr": "B1"
+  },
+  {
+    "stem": "slit",
+    "past": "slit",
+    "past participle": "slit",
+    "3 SG": "slits",
+    "ing": "slitting",
+    "cefr": ""
+  },
+  {
+    "stem": "smash",
+    "past": "smashed",
+    "past participle": "smashed",
+    "3 SG": "smashes",
+    "ing": "smashing",
+    "cefr": "B2"
+  },
+  {
+    "stem": "smell",
+    "past": "smelt",
+    "past participle": "smelt",
+    "3 SG": "smells",
+    "ing": "smelling",
+    "cefr": "B1"
+  },
+  {
+    "stem": "smile",
+    "past": "smiled",
+    "past participle": "smiled",
+    "3 SG": "smiles",
+    "ing": "smiling",
+    "cefr": "B1"
+  },
+  {
+    "stem": "smite",
+    "past": "smote",
+    "past participle": "smitten",
+    "3 SG": "smites",
+    "ing": "smiting",
+    "cefr": ""
+  },
+  {
+    "stem": "smooth",
+    "past": "smoothed",
+    "past participle": "smoothed",
+    "3 SG": "smoothes",
+    "ing": "smoothing",
+    "cefr": "A2"
+  },
+  {
+    "stem": "smother",
+    "past": "smothered",
+    "past participle": "smothered",
+    "3 SG": "smothers",
+    "ing": "smothering",
+    "cefr": ""
+  },
+  {
+    "stem": "snap",
+    "past": "snapped",
+    "past participle": "snapped",
+    "3 SG": "snaps",
+    "ing": "snapping",
+    "cefr": "B2"
+  },
+  {
+    "stem": "snatch",
+    "past": "snatched",
+    "past participle": "snatched",
+    "3 SG": "snatches",
+    "ing": "snatching",
+    "cefr": ""
+  },
+  {
+    "stem": "sneak",
+    "past": "sneaked",
+    "past participle": "sneaked",
+    "3 SG": "sneaks",
+    "ing": "sneaking",
+    "cefr": "B2"
+  },
+  {
+    "stem": "sneeze",
+    "past": "sneezed",
+    "past participle": "sneezed",
+    "3 SG": "sneezes",
+    "ing": "sneezing",
+    "cefr": "B2"
+  },
+  {
+    "stem": "sniff",
+    "past": "sniffed",
+    "past participle": "sniffed",
+    "3 SG": "sniffs",
+    "ing": "sniffing",
+    "cefr": "B2"
+  },
+  {
+    "stem": "soar",
+    "past": "soared",
+    "past participle": "soared",
+    "3 SG": "soars",
+    "ing": "soaring",
+    "cefr": "B2"
+  },
+  {
+    "stem": "sob",
+    "past": "sobbed",
+    "past participle": "sobbed",
+    "3 SG": "sobs",
+    "ing": "sobbing",
+    "cefr": "B2"
+  },
+  {
+    "stem": "solicit",
+    "past": "solicited",
+    "past participle": "solicited",
+    "3 SG": "solicits",
+    "ing": "soliciting",
+    "cefr": ""
+  },
+  {
+    "stem": "solve",
+    "past": "solved",
+    "past participle": "solved",
+    "3 SG": "solves",
+    "ing": "solving",
+    "cefr": "A1"
+  },
+  {
+    "stem": "soothe",
+    "past": "soothed",
+    "past participle": "soothed",
+    "3 SG": "soothes",
+    "ing": "soothing",
+    "cefr": "B1"
+  },
+  {
+    "stem": "sort",
+    "past": "sorted",
+    "past participle": "sorted",
+    "3 SG": "sorts",
+    "ing": "sorting",
+    "cefr": "B2"
+  },
+  {
+    "stem": "sow",
+    "past": "sowed",
+    "past participle": "sowed",
+    "3 SG": "sows",
+    "ing": "sowing",
+    "cefr": ""
+  },
+  {
+    "stem": "sparkle",
+    "past": "sparkled",
+    "past participle": "sparkled",
+    "3 SG": "sparkles",
+    "ing": "sparkling",
+    "cefr": "B1"
+  },
+  {
+    "stem": "speak",
+    "past": "spoke",
+    "past participle": "spoken",
+    "3 SG": "speaks",
+    "ing": "speaking",
+    "cefr": "A1"
+  },
+  {
+    "stem": "speed",
+    "past": "sped",
+    "past participle": "sped",
+    "3 SG": "speeds",
+    "ing": "speeding",
+    "cefr": "B1"
+  },
+  {
+    "stem": "spell",
+    "past": "spelt",
+    "past participle": "spelt",
+    "3 SG": "spells",
+    "ing": "spelling",
+    "cefr": "A2"
+  },
+  {
+    "stem": "spend",
+    "past": "spent",
+    "past participle": "spent",
+    "3 SG": "spends",
+    "ing": "spending",
+    "cefr": "A1"
+  },
+  {
+    "stem": "spill",
+    "past": "spilt",
+    "past participle": "spilt",
+    "3 SG": "spills",
+    "ing": "spilling",
+    "cefr": "A2"
+  },
+  {
+    "stem": "spin",
+    "past": "span/spun",
+    "past participle": "spun",
+    "3 SG": "spins",
+    "ing": "spinning",
+    "cefr": "B2"
+  },
+  {
+    "stem": "spit",
+    "past": "spat/spit",
+    "past participle": "spat/spit",
+    "3 SG": "spits",
+    "ing": "spitting",
+    "cefr": ""
+  },
+  {
+    "stem": "split",
+    "past": "split",
+    "past participle": "split",
+    "3 SG": "splits",
+    "ing": "splitting",
+    "cefr": "B1"
+  },
+  {
+    "stem": "spoil",
+    "past": "spoilt",
+    "past participle": "spoilt",
+    "3 SG": "spoils",
+    "ing": "spoiling",
+    "cefr": "B1"
+  },
+  {
+    "stem": "spray",
+    "past": "sprayed",
+    "past participle": "sprayed",
+    "3 SG": "sprays",
+    "ing": "spraying",
+    "cefr": "B2"
+  },
+  {
+    "stem": "spread",
+    "past": "spread",
+    "past participle": "spread",
+    "3 SG": "spreads",
+    "ing": "spreading",
+    "cefr": "B2"
+  },
+  {
+    "stem": "spring",
+    "past": "sprang",
+    "past participle": "sprung",
+    "3 SG": "springs",
+    "ing": "springing",
+    "cefr": "A1"
+  },
+  {
+    "stem": "sprout",
+    "past": "sprouted",
+    "past participle": "sprouted",
+    "3 SG": "sprouts",
+    "ing": "sprouting",
+    "cefr": ""
+  },
+  {
+    "stem": "squeeze",
+    "past": "squeezed",
+    "past participle": "squeezed",
+    "3 SG": "squeezes",
+    "ing": "squeezing",
+    "cefr": "B2"
+  },
+  {
+    "stem": "stand",
+    "past": "stood",
+    "past participle": "stood",
+    "3 SG": "stands",
+    "ing": "standing",
+    "cefr": "A2"
+  },
+  {
+    "stem": "stare",
+    "past": "stared",
+    "past participle": "stared",
+    "3 SG": "stares",
+    "ing": "staring",
+    "cefr": "B1"
+  },
+  {
+    "stem": "start",
+    "past": "started",
+    "past participle": "started",
+    "3 SG": "starts",
+    "ing": "starting",
+    "cefr": "A1"
+  },
+  {
+    "stem": "state",
+    "past": "stated",
+    "past participle": "stated",
+    "3 SG": "states",
+    "ing": "stating",
+    "cefr": "A2"
+  },
+  {
+    "stem": "stay",
+    "past": "stayed",
+    "past participle": "stayed",
+    "3 SG": "stays",
+    "ing": "staying",
+    "cefr": "A1"
+  },
+  {
+    "stem": "steal",
+    "past": "stole",
+    "past participle": "stolen",
+    "3 SG": "steals",
+    "ing": "stealing",
+    "cefr": "A2"
+  },
+  {
+    "stem": "steep",
+    "past": "steeped",
+    "past participle": "steeped",
+    "3 SG": "steeps",
+    "ing": "steeping",
+    "cefr": "B1"
+  },
+  {
+    "stem": "stem",
+    "past": "stemmed",
+    "past participle": "stemmed",
+    "3 SG": "stems",
+    "ing": "stemming",
+    "cefr": "B1"
+  },
+  {
+    "stem": "step",
+    "past": "stepped",
+    "past participle": "stepped",
+    "3 SG": "steps",
+    "ing": "stepping",
+    "cefr": "A1"
+  },
+  {
+    "stem": "sterilize",
+    "past": "sterilized",
+    "past participle": "sterilized",
+    "3 SG": "sterilizes",
+    "ing": "sterilizing",
+    "cefr": ""
+  },
+  {
+    "stem": "stick",
+    "past": "stuck",
+    "past participle": "stuck",
+    "3 SG": "sticks",
+    "ing": "sticking",
+    "cefr": "B1"
+  },
+  {
+    "stem": "stimulate",
+    "past": "stimulated",
+    "past participle": "stimulated",
+    "3 SG": "stimulates",
+    "ing": "stimulating",
+    "cefr": "B2"
+  },
+  {
+    "stem": "sting",
+    "past": "stung",
+    "past participle": "stung",
+    "3 SG": "stings",
+    "ing": "stinging",
+    "cefr": ""
+  },
+  {
+    "stem": "stink",
+    "past": "stank",
+    "past participle": "stunk",
+    "3 SG": "stinks",
+    "ing": "stinking",
+    "cefr": "B2"
+  },
+  {
+    "stem": "stir",
+    "past": "stirred",
+    "past participle": "stirred",
+    "3 SG": "stirs",
+    "ing": "stirring",
+    "cefr": "B1"
+  },
+  {
+    "stem": "stitch",
+    "past": "stitched",
+    "past participle": "stitched",
+    "3 SG": "stitches",
+    "ing": "stitching",
+    "cefr": "B2"
+  },
+  {
+    "stem": "stoop",
+    "past": "stooped",
+    "past participle": "stooped",
+    "3 SG": "stoops",
+    "ing": "stooping",
+    "cefr": ""
+  },
+  {
+    "stem": "stop",
+    "past": "stopped",
+    "past participle": "stopped",
+    "3 SG": "stops",
+    "ing": "stopping",
+    "cefr": "A1"
+  },
+  {
+    "stem": "store",
+    "past": "stored",
+    "past participle": "stored",
+    "3 SG": "stores",
+    "ing": "storing",
+    "cefr": "B2"
+  },
+  {
+    "stem": "strain",
+    "past": "strained",
+    "past participle": "strained",
+    "3 SG": "strains",
+    "ing": "straining",
+    "cefr": "B2"
+  },
+  {
+    "stem": "stray",
+    "past": "strayed",
+    "past participle": "strayed",
+    "3 SG": "strays",
+    "ing": "straying",
+    "cefr": ""
+  },
+  {
+    "stem": "stress",
+    "past": "stressed",
+    "past participle": "stressed",
+    "3 SG": "stresses",
+    "ing": "stressing",
+    "cefr": "B2"
+  },
+  {
+    "stem": "stretch",
+    "past": "stretched",
+    "past participle": "stretched",
+    "3 SG": "stretches",
+    "ing": "stretching",
+    "cefr": "B1"
+  },
+  {
+    "stem": "strew",
+    "past": "strewed",
+    "past participle": "strewn",
+    "3 SG": "strews",
+    "ing": "strewing",
+    "cefr": ""
+  },
+  {
+    "stem": "stride",
+    "past": "strode",
+    "past participle": "stridden",
+    "3 SG": "strides",
+    "ing": "striding",
+    "cefr": "B2"
+  },
+  {
+    "stem": "strike",
+    "past": "struck",
+    "past participle": "struck/stricken",
+    "3 SG": "strikes",
+    "ing": "striking",
+    "cefr": "B1"
+  },
+  {
+    "stem": "string",
+    "past": "strung",
+    "past participle": "strung",
+    "3 SG": "strings",
+    "ing": "stringing",
+    "cefr": "A2"
+  },
+  {
+    "stem": "strive",
+    "past": "strove",
+    "past participle": "striven",
+    "3 SG": "strives",
+    "ing": "striving",
+    "cefr": "B2"
+  },
+  {
+    "stem": "study",
+    "past": "studied",
+    "past participle": "studied",
+    "3 SG": "studies",
+    "ing": "studying",
+    "cefr": "A1"
+  },
+  {
+    "stem": "submit",
+    "past": "submitted",
+    "past participle": "submitted",
+    "3 SG": "submits",
+    "ing": "submitting",
+    "cefr": "B2"
+  },
+  {
+    "stem": "subscribe",
+    "past": "subscribed",
+    "past participle": "subscribed",
+    "3 SG": "subscribes",
+    "ing": "subscribing",
+    "cefr": ""
+  },
+  {
+    "stem": "subtract",
+    "past": "subtracted",
+    "past participle": "subtracted",
+    "3 SG": "subtracts",
+    "ing": "subtracting",
+    "cefr": "B2"
+  },
+  {
+    "stem": "succeed",
+    "past": "succeeded",
+    "past participle": "succeeded",
+    "3 SG": "succeeds",
+    "ing": "succeeding",
+    "cefr": "A2"
+  },
+  {
+    "stem": "suck",
+    "past": "sucked",
+    "past participle": "sucked",
+    "3 SG": "sucks",
+    "ing": "sucking",
+    "cefr": "B2"
+  },
+  {
+    "stem": "suffer",
+    "past": "suffered",
+    "past participle": "suffered",
+    "3 SG": "suffers",
+    "ing": "suffering",
+    "cefr": "B1"
+  },
+  {
+    "stem": "suggest",
+    "past": "suggested",
+    "past participle": "suggested",
+    "3 SG": "suggests",
+    "ing": "suggesting",
+    "cefr": "A2"
+  },
+  {
+    "stem": "summon",
+    "past": "summoned",
+    "past participle": "summoned",
+    "3 SG": "summons",
+    "ing": "summoning",
+    "cefr": ""
+  },
+  {
+    "stem": "supply",
+    "past": "supplied",
+    "past participle": "supplied",
+    "3 SG": "supplies",
+    "ing": "supplying",
+    "cefr": "B2"
+  },
+  {
+    "stem": "support",
+    "past": "supported",
+    "past participle": "supported",
+    "3 SG": "supports",
+    "ing": "supporting",
+    "cefr": "B1"
+  },
+  {
+    "stem": "suppose",
+    "past": "supposed",
+    "past participle": "supposed",
+    "3 SG": "supposes",
+    "ing": "supposing",
+    "cefr": "B1"
+  },
+  {
+    "stem": "surge",
+    "past": "surged",
+    "past participle": "surged",
+    "3 SG": "surges",
+    "ing": "surging",
+    "cefr": "B2"
+  },
+  {
+    "stem": "surmise",
+    "past": "surmised",
+    "past participle": "surmised",
+    "3 SG": "surmises",
+    "ing": "surmising",
+    "cefr": ""
+  },
+  {
+    "stem": "surpass",
+    "past": "surpassed",
+    "past participle": "surpassed",
+    "3 SG": "surpasses",
+    "ing": "surpassing",
+    "cefr": ""
+  },
+  {
+    "stem": "surround",
+    "past": "surrounded",
+    "past participle": "surrounded",
+    "3 SG": "surrounds",
+    "ing": "surrounding",
+    "cefr": "B1"
+  },
+  {
+    "stem": "survey",
+    "past": "surveyed",
+    "past participle": "surveyed",
+    "3 SG": "surveys",
+    "ing": "surveying",
+    "cefr": "A1"
+  },
+  {
+    "stem": "survive",
+    "past": "survived",
+    "past participle": "survived",
+    "3 SG": "survives",
+    "ing": "surviving",
+    "cefr": "A2"
+  },
+  {
+    "stem": "swallow",
+    "past": "swallowed",
+    "past participle": "swallowed",
+    "3 SG": "swallows",
+    "ing": "swallowing",
+    "cefr": "A2"
+  },
+  {
+    "stem": "sway",
+    "past": "swayed",
+    "past participle": "swayed",
+    "3 SG": "sways",
+    "ing": "swaying",
+    "cefr": ""
+  },
+  {
+    "stem": "swear",
+    "past": "swore",
+    "past participle": "sworn",
+    "3 SG": "swears",
+    "ing": "swearing",
+    "cefr": "B1"
+  },
+  {
+    "stem": "sweat",
+    "past": "sweat",
+    "past participle": "sweat",
+    "3 SG": "sweats",
+    "ing": "sweating",
+    "cefr": "A2"
+  },
+  {
+    "stem": "sweep",
+    "past": "swept",
+    "past participle": "swept",
+    "3 SG": "sweeps",
+    "ing": "sweeping",
+    "cefr": "B2"
+  },
+  {
+    "stem": "swell",
+    "past": "swelled",
+    "past participle": "swollen",
+    "3 SG": "swells",
+    "ing": "swelling",
+    "cefr": "B1"
+  },
+  {
+    "stem": "swim",
+    "past": "swam",
+    "past participle": "swum",
+    "3 SG": "swims",
+    "ing": "swimming",
+    "cefr": "A1"
+  },
+  {
+    "stem": "swing",
+    "past": "swung",
+    "past participle": "swung",
+    "3 SG": "swings",
+    "ing": "swinging",
+    "cefr": "B2"
+  },
+  {
+    "stem": "swot",
+    "past": "swotted",
+    "past participle": "swotted",
+    "3 SG": "swots",
+    "ing": "swotting",
+    "cefr": ""
+  },
+  {
+    "stem": "take",
+    "past": "took",
+    "past participle": "taken",
+    "3 SG": "takes",
+    "ing": "taking",
+    "cefr": "A1"
+  },
+  {
+    "stem": "talk",
+    "past": "talked",
+    "past participle": "talked",
+    "3 SG": "talks",
+    "ing": "talking",
+    "cefr": "A1"
+  },
+  {
+    "stem": "tap",
+    "past": "tapped",
+    "past participle": "tapped",
+    "3 SG": "taps",
+    "ing": "tapping",
+    "cefr": "B2"
+  },
+  {
+    "stem": "taste",
+    "past": "tasted",
+    "past participle": "tasted",
+    "3 SG": "tastes",
+    "ing": "tasting",
+    "cefr": "B1"
+  },
+  {
+    "stem": "tax",
+    "past": "taxed",
+    "past participle": "taxed",
+    "3 SG": "taxes",
+    "ing": "taxing",
+    "cefr": "B1"
+  },
+  {
+    "stem": "teach",
+    "past": "taught",
+    "past participle": "taught",
+    "3 SG": "teaches",
+    "ing": "teaching",
+    "cefr": "A1"
+  },
+  {
+    "stem": "tear",
+    "past": "tore",
+    "past participle": "torn",
+    "3 SG": "tears",
+    "ing": "tearing",
+    "cefr": "B1"
+  },
+  {
+    "stem": "tee",
+    "past": "teed",
+    "past participle": "teed",
+    "3 SG": "tees",
+    "ing": "teeing",
+    "cefr": ""
+  },
+  {
+    "stem": "tell",
+    "past": "told",
+    "past participle": "told",
+    "3 SG": "tells",
+    "ing": "telling",
+    "cefr": "A1"
+  },
+  {
+    "stem": "tempt",
+    "past": "tempted",
+    "past participle": "tempted",
+    "3 SG": "tempts",
+    "ing": "tempting",
+    "cefr": "B1"
+  },
+  {
+    "stem": "tend",
+    "past": "tended",
+    "past participle": "tended",
+    "3 SG": "tends",
+    "ing": "tending",
+    "cefr": "B1"
+  },
+  {
+    "stem": "terminate",
+    "past": "terminated",
+    "past participle": "terminated",
+    "3 SG": "terminates",
+    "ing": "terminating",
+    "cefr": ""
+  },
+  {
+    "stem": "terrify",
+    "past": "terrified",
+    "past participle": "terrified",
+    "3 SG": "terrifies",
+    "ing": "terrifying",
+    "cefr": "A2"
+  },
+  {
+    "stem": "test",
+    "past": "tested",
+    "past participle": "tested",
+    "3 SG": "tests",
+    "ing": "testing",
+    "cefr": "B2"
+  },
+  {
+    "stem": "thank",
+    "past": "thanked",
+    "past participle": "thanked",
+    "3 SG": "thanks",
+    "ing": "thanking",
+    "cefr": "A1"
+  },
+  {
+    "stem": "think",
+    "past": "thought",
+    "past participle": "thought",
+    "3 SG": "thinks",
+    "ing": "thinking",
+    "cefr": "A1"
+  },
+  {
+    "stem": "thrive",
+    "past": "throve",
+    "past participle": "thriven",
+    "3 SG": "thrives",
+    "ing": "thriving",
+    "cefr": ""
+  },
+  {
+    "stem": "throw",
+    "past": "threw",
+    "past participle": "thrown",
+    "3 SG": "throws",
+    "ing": "throwing",
+    "cefr": "A2"
+  },
+  {
+    "stem": "thrust",
+    "past": "thrust",
+    "past participle": "thrust",
+    "3 SG": "thrusts",
+    "ing": "thrusting",
+    "cefr": ""
+  },
+  {
+    "stem": "thump",
+    "past": "thumped",
+    "past participle": "thumped",
+    "3 SG": "thumps",
+    "ing": "thumping",
+    "cefr": "B1"
+  },
+  {
+    "stem": "tie",
+    "past": "tied",
+    "past participle": "tied",
+    "3 SG": "ties",
+    "ing": "tying",
+    "cefr": "B1"
+  },
+  {
+    "stem": "tire",
+    "past": "tired",
+    "past participle": "tired",
+    "3 SG": "tires",
+    "ing": "tiring",
+    "cefr": "B1"
+  },
+  {
+    "stem": "toss",
+    "past": "tossed",
+    "past participle": "tossed",
+    "3 SG": "tosses",
+    "ing": "tossing",
+    "cefr": "B1"
+  },
+  {
+    "stem": "touch",
+    "past": "touched",
+    "past participle": "touched",
+    "3 SG": "touches",
+    "ing": "touching",
+    "cefr": "B1"
+  },
+  {
+    "stem": "train",
+    "past": "trained",
+    "past participle": "trained",
+    "3 SG": "trains",
+    "ing": "training",
+    "cefr": "A2"
+  },
+  {
+    "stem": "trample",
+    "past": "trampled",
+    "past participle": "trampled",
+    "3 SG": "tramples",
+    "ing": "trampling",
+    "cefr": "B2"
+  },
+  {
+    "stem": "transfer",
+    "past": "transferred",
+    "past participle": "transferred",
+    "3 SG": "transfers",
+    "ing": "transferring",
+    "cefr": "B1"
+  },
+  {
+    "stem": "transform",
+    "past": "transformed",
+    "past participle": "transformed",
+    "3 SG": "transforms",
+    "ing": "transforming",
+    "cefr": "B1"
+  },
+  {
+    "stem": "translate",
+    "past": "translated",
+    "past participle": "translated",
+    "3 SG": "translates",
+    "ing": "translating",
+    "cefr": "B1"
+  },
+  {
+    "stem": "trap",
+    "past": "trapped",
+    "past participle": "trapped",
+    "3 SG": "traps",
+    "ing": "trapping",
+    "cefr": "A2"
+  },
+  {
+    "stem": "travel",
+    "past": "travelled",
+    "past participle": "travelled",
+    "3 SG": "travels",
+    "ing": "travelling",
+    "cefr": "A1"
+  },
+  {
+    "stem": "tread",
+    "past": "trod",
+    "past participle": "trodden",
+    "3 SG": "treads",
+    "ing": "treading",
+    "cefr": "B2"
+  },
+  {
+    "stem": "treasure",
+    "past": "treasured",
+    "past participle": "treasured",
+    "3 SG": "treasures",
+    "ing": "treasuring",
+    "cefr": "A2"
+  },
+  {
+    "stem": "treat",
+    "past": "treated",
+    "past participle": "treated",
+    "3 SG": "treats",
+    "ing": "treating",
+    "cefr": "B2"
+  },
+  {
+    "stem": "tree",
+    "past": "treed",
+    "past participle": "treed",
+    "3 SG": "trees",
+    "ing": "treeing",
+    "cefr": "A1"
+  },
+  {
+    "stem": "tremble",
+    "past": "trembled",
+    "past participle": "trembled",
+    "3 SG": "trembles",
+    "ing": "trembling",
+    "cefr": "B1"
+  },
+  {
+    "stem": "triumph",
+    "past": "triumphed",
+    "past participle": "triumphed",
+    "3 SG": "triumphs",
+    "ing": "triumphing",
+    "cefr": "B1"
+  },
+  {
+    "stem": "trust",
+    "past": "trusted",
+    "past participle": "trusted",
+    "3 SG": "trusts",
+    "ing": "trusting",
+    "cefr": "A2"
+  },
+  {
+    "stem": "try",
+    "past": "tried",
+    "past participle": "tried",
+    "3 SG": "tries",
+    "ing": "trying",
+    "cefr": "A2"
+  },
+  {
+    "stem": "turn",
+    "past": "turned",
+    "past participle": "turned",
+    "3 SG": "turns",
+    "ing": "turning",
+    "cefr": "A1"
+  },
+  {
+    "stem": "type",
+    "past": "typed",
+    "past participle": "typed",
+    "3 SG": "types",
+    "ing": "typing",
+    "cefr": "B1"
+  },
+  {
+    "stem": "typeset",
+    "past": "typeset",
+    "past participle": "typeset",
+    "3 SG": "typesets",
+    "ing": "typesetting",
+    "cefr": ""
+  },
+  {
+    "stem": "understand",
+    "past": "understood",
+    "past participle": "understood",
+    "3 SG": "understands",
+    "ing": "understanding",
+    "cefr": "A2"
+  },
+  {
+    "stem": "undo",
+    "past": "undid",
+    "past participle": "undone",
+    "3 SG": "undoes",
+    "ing": "undoing",
+    "cefr": "B1"
+  },
+  {
+    "stem": "uproot",
+    "past": "uprooted",
+    "past participle": "uprooted",
+    "3 SG": "uproots",
+    "ing": "uprooting",
+    "cefr": ""
+  },
+  {
+    "stem": "upset",
+    "past": "upset",
+    "past participle": "upset",
+    "3 SG": "upsets",
+    "ing": "upsetting",
+    "cefr": "B2"
+  },
+  {
+    "stem": "urge",
+    "past": "urged",
+    "past participle": "urged",
+    "3 SG": "urges",
+    "ing": "urging",
+    "cefr": "B2"
+  },
+  {
+    "stem": "use",
+    "past": "used",
+    "past participle": "used",
+    "3 SG": "uses",
+    "ing": "using",
+    "cefr": "A1"
+  },
+  {
+    "stem": "utter",
+    "past": "uttered",
+    "past participle": "uttered",
+    "3 SG": "utters",
+    "ing": "uttering",
+    "cefr": "B2"
+  },
+  {
+    "stem": "value",
+    "past": "valued",
+    "past participle": "valued",
+    "3 SG": "values",
+    "ing": "valuing",
+    "cefr": "B2"
+  },
+  {
+    "stem": "vanish",
+    "past": "vanished",
+    "past participle": "vanished",
+    "3 SG": "vanishes",
+    "ing": "vanishing",
+    "cefr": "B2"
+  },
+  {
+    "stem": "vary",
+    "past": "varied",
+    "past participle": "varied",
+    "3 SG": "varies",
+    "ing": "varying",
+    "cefr": "B1"
+  },
+  {
+    "stem": "verify",
+    "past": "verified",
+    "past participle": "verified",
+    "3 SG": "verifies",
+    "ing": "verifying",
+    "cefr": ""
+  },
+  {
+    "stem": "vex",
+    "past": "vexed",
+    "past participle": "vexed",
+    "3 SG": "vexes",
+    "ing": "vexing",
+    "cefr": ""
+  },
+  {
+    "stem": "vie",
+    "past": "vied",
+    "past participle": "vied",
+    "3 SG": "vies",
+    "ing": "vying",
+    "cefr": ""
+  },
+  {
+    "stem": "view",
+    "past": "viewed",
+    "past participle": "viewed",
+    "3 SG": "views",
+    "ing": "viewing",
+    "cefr": "B1"
+  },
+  {
+    "stem": "violate",
+    "past": "violated",
+    "past participle": "violated",
+    "3 SG": "violates",
+    "ing": "violating",
+    "cefr": "B2"
+  },
+  {
+    "stem": "vomit",
+    "past": "vomited",
+    "past participle": "vomited",
+    "3 SG": "vomits",
+    "ing": "vomiting",
+    "cefr": "B2"
+  },
+  {
+    "stem": "wake",
+    "past": "woke",
+    "past participle": "woken",
+    "3 SG": "wakes",
+    "ing": "waking",
+    "cefr": "B1"
+  },
+  {
+    "stem": "walk",
+    "past": "walked",
+    "past participle": "walked",
+    "3 SG": "walks",
+    "ing": "walking",
+    "cefr": "A1"
+  },
+  {
+    "stem": "wander",
+    "past": "wandered",
+    "past participle": "wandered",
+    "3 SG": "wanders",
+    "ing": "wandering",
+    "cefr": "A2"
+  },
+  {
+    "stem": "want",
+    "past": "wanted",
+    "past participle": "wanted",
+    "3 SG": "wants",
+    "ing": "wanting",
+    "cefr": "A1"
+  },
+  {
+    "stem": "warn",
+    "past": "warned",
+    "past participle": "warned",
+    "3 SG": "warns",
+    "ing": "warning",
+    "cefr": "B1"
+  },
+  {
+    "stem": "waste",
+    "past": "wasted",
+    "past participle": "wasted",
+    "3 SG": "wastes",
+    "ing": "wasting",
+    "cefr": "B1"
+  },
+  {
+    "stem": "watch",
+    "past": "watched",
+    "past participle": "watched",
+    "3 SG": "watches",
+    "ing": "watching",
+    "cefr": "A1"
+  },
+  {
+    "stem": "water",
+    "past": "watered",
+    "past participle": "watered",
+    "3 SG": "waters",
+    "ing": "watering",
+    "cefr": "B2"
+  },
+  {
+    "stem": "wave",
+    "past": "waved",
+    "past participle": "waved",
+    "3 SG": "waves",
+    "ing": "waving",
+    "cefr": "B1"
+  },
+  {
+    "stem": "wax",
+    "past": "waxed",
+    "past participle": "waxed",
+    "3 SG": "waxes",
+    "ing": "waxing",
+    "cefr": "B1"
+  },
+  {
+    "stem": "waylay",
+    "past": "waylaid",
+    "past participle": "waylaid",
+    "3 SG": "waylays",
+    "ing": "waylaying",
+    "cefr": ""
+  },
+  {
+    "stem": "wear",
+    "past": "wore",
+    "past participle": "worn",
+    "3 SG": "wears",
+    "ing": "wearing",
+    "cefr": "A1"
+  },
+  {
+    "stem": "weave",
+    "past": "wove",
+    "past participle": "woven",
+    "3 SG": "weaves",
+    "ing": "weaving",
+    "cefr": "B2"
+  },
+  {
+    "stem": "wed",
+    "past": "wed",
+    "past participle": "wed",
+    "3 SG": "weds",
+    "ing": "wedding",
+    "cefr": "B2"
+  },
+  {
+    "stem": "weep",
+    "past": "wept",
+    "past participle": "wept",
+    "3 SG": "weeps",
+    "ing": "weeping",
+    "cefr": "A2"
+  },
+  {
+    "stem": "weigh",
+    "past": "weighed",
+    "past participle": "weighed",
+    "3 SG": "weighs",
+    "ing": "weighing",
+    "cefr": "A2"
+  },
+  {
+    "stem": "welcome",
+    "past": "welcomed",
+    "past participle": "welcomed",
+    "3 SG": "welcomes",
+    "ing": "welcoming",
+    "cefr": "A1"
+  },
+  {
+    "stem": "wend",
+    "past": "went",
+    "past participle": "went",
+    "3 SG": "wends",
+    "ing": "wending",
+    "cefr": ""
+  },
+  {
+    "stem": "wet",
+    "past": "wet",
+    "past participle": "wet",
+    "3 SG": "wets",
+    "ing": "wetting",
+    "cefr": "A2"
+  },
+  {
+    "stem": "whip",
+    "past": "whipped",
+    "past participle": "whipped",
+    "3 SG": "whips",
+    "ing": "whipping",
+    "cefr": "B2"
+  },
+  {
+    "stem": "whisper",
+    "past": "whispered",
+    "past participle": "whispered",
+    "3 SG": "whispers",
+    "ing": "whispering",
+    "cefr": "B2"
+  },
+  {
+    "stem": "win",
+    "past": "won",
+    "past participle": "won",
+    "3 SG": "wins",
+    "ing": "winning",
+    "cefr": "A1"
+  },
+  {
+    "stem": "wind",
+    "past": "wound",
+    "past participle": "wound",
+    "3 SG": "winds",
+    "ing": "winding",
+    "cefr": "B2"
+  },
+  {
+    "stem": "wish",
+    "past": "wished",
+    "past participle": "wished",
+    "3 SG": "wishes",
+    "ing": "wishing",
+    "cefr": "A2"
+  },
+  {
+    "stem": "withdraw",
+    "past": "withdrew",
+    "past participle": "withdrawn",
+    "3 SG": "withdraws",
+    "ing": "withdrawing",
+    "cefr": "B2"
+  },
+  {
+    "stem": "work",
+    "past": "worked",
+    "past participle": "worked",
+    "3 SG": "works",
+    "ing": "working",
+    "cefr": "A1"
+  },
+  {
+    "stem": "worry",
+    "past": "worried",
+    "past participle": "worried",
+    "3 SG": "worries",
+    "ing": "worrying",
+    "cefr": "A2"
+  },
+  {
+    "stem": "worship",
+    "past": "worshipped",
+    "past participle": "worshipped",
+    "3 SG": "worships",
+    "ing": "worshipping",
+    "cefr": "B2"
+  },
+  {
+    "stem": "wring",
+    "past": "wrung",
+    "past participle": "wrung",
+    "3 SG": "wrings",
+    "ing": "wringing",
+    "cefr": ""
+  },
+  {
+    "stem": "write",
+    "past": "wrote",
+    "past participle": "written",
+    "3 SG": "writes",
+    "ing": "writing",
+    "cefr": "A1"
+  },
+  {
+    "stem": "yawn",
+    "past": "yawned",
+    "past participle": "yawned",
+    "3 SG": "yawns",
+    "ing": "yawning",
+    "cefr": "B2"
+  },
+  {
+    "stem": "yell",
+    "past": "yelled",
+    "past participle": "yelled",
+    "3 SG": "yells",
+    "ing": "yelling",
+    "cefr": "B2"
+  },
+  {
+    "stem": "yield",
+    "past": "yielded",
+    "past participle": "yielded",
+    "3 SG": "yields",
+    "ing": "yielding",
+    "cefr": "B2"
+  },
+  {
+    "stem": "zinc",
+    "past": "zincked",
+    "past participle": "zincked",
+    "3 SG": "zincs",
+    "ing": "zincking",
+    "cefr": ""
+  },
+  {
+    "stem": "zoom",
+    "past": "zoomed",
+    "past participle": "zoomed",
+    "3 SG": "zooms",
+    "ing": "zooming",
+    "cefr": "B2"
+  }
+]
