@@ -12,8 +12,16 @@
     "fingering": "x13331"
   },
   {
+    "chordName": "B",
+    "fingering": "x24442"
+  },
+  {
     "chordName": "Bm",
     "fingering": "x24432"
+  },
+  {
+    "chordName": "C",
+    "fingering": "332010"
   },
   {
     "chordName": "D",
@@ -24,11 +32,23 @@
     "fingering": "xx0231"
   },
   {
+    "chordName": "E",
+    "fingering": "022100"
+  },
+  {
+    "chordName": "Em",
+    "fingering": "022000"
+  },
+  {
     "chordName": "F",
     "fingering": "133211"
   },
   {
-    "chordName": "Bm",
-    "fingering": "x24432"
+    "chordName": "G",
+    "fingering": "320003"
+  },
+  {
+    "chordName": "Gm",
+    "fingering": "310033"
   }
 ]
