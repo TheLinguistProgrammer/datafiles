@@ -1,10 +1,26 @@
 [
   {
+    "chordName": "A",
+    "fingering": "002220"
+  },
+  {
     "chordName": "Am",
     "fingering": "x02210"
   },
   {
+    "chordName": "D",
+    "fingering": "xx0232"
+  },
+  {
     "chordName": "Dm",
     "fingering": "xx0231"
+  },
+  {
+    "chordName": "F",
+    "fingering": "133211"
+  },
+  {
+    "chordName": "Bm",
+    "fingering": "x24432"
   }
 ]
