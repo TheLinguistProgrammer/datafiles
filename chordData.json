@@ -1,11 +1,15 @@
 [
   {
     "chordName": "A",
-    "fingering": "002220"
+    "fingering": "x02220"
   },
   {
     "chordName": "Am",
     "fingering": "x02210"
+  },
+  {
+    "chordName": "Asus4",
+    "fingering": "x00230"
   },
   {
     "chordName": "B♭",
@@ -20,8 +24,20 @@
     "fingering": "x24432"
   },
   {
+    "chordName": "Bm7/A",
+    "fingering": "x00202"
+  },
+  {
     "chordName": "C",
-    "fingering": "332010"
+    "fingering": "x32010"
+  },
+  {
+    "chordName": "C#m",
+    "fingering": "xx2120"
+  },
+  {
+    "chordName": "C7",
+    "fingering": "x32310"
   },
   {
     "chordName": "D",
@@ -36,12 +52,24 @@
     "fingering": "022100"
   },
   {
+    "chordName": "E/G#",
+    "fingering": "476454"
+  },
+  {
     "chordName": "Em",
     "fingering": "022000"
   },
   {
     "chordName": "F",
     "fingering": "133211"
+  },
+  {
+    "chordName": "F#",
+    "fingering": "244322"
+  },
+  {
+    "chordName": "F#m",
+    "fingering": "244222"
   },
   {
     "chordName": "G",
